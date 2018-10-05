@@ -1,0 +1,2303 @@
+zh-HK:
+  account:
+    danger:
+      button: "取消與經紀人的連接"
+      description: "取消與你經紀人的連接將會刪除關於Stockflare上保留的關於你經紀人的詳情。我們將刪除保有的所有帳戶和專案資訊。不過，出於審計考慮，我們會保留你在Stockflare上存儲的所有訂單詳情。"
+      title: "危險區"
+    power: "購買力"
+  alerts:
+    timeAgo: ' "%n 小時以前"'
+  alerts_email:
+    content:
+      account: "帳戶"
+      alert_settings: "提醒設置"
+      description:
+        daily: "我們為你觸發觀察清單和投資組合中的股票提醒。"
+        weekly: "這是一份每週總結，包含你上周收到的最重要的提醒。"
+      footer:
+        click: "或者點擊"
+        contact: "聯繫我們"
+        here: "在這裡"
+        more_details: Stockflare Limited。更多關於Stockflare Plus的資訊請訪問
+        settings: "設置頁"
+        unsubscribe: "在這裡取消訂購。"
+        update_prefs: "更新你的偏好"
+      heading:
+        daily: "你有%count未讀提醒。"
+        weekly: "上周，你有%count提醒。"
+      hidden_message: "你還有%hidden未顯示的“Plus”提醒。"
+      marketing:
+        gift:
+          link: "免費使用1個月"
+          text: "送給朋友免費使用Stockflare Plus14天的機會並獲得"
+      subject:
+        daily: "%message_count 提醒包括 %tickers"
+        weekly: "你的每日更新包括 %tickers"
+      subscription:
+        free:
+          offer_subscription: "你正在使用我們的免費提醒服務。瞭解益處"
+          offer_trial: "你正在使用我們的免費提醒服務。瞭解我們的14天免費試用"
+          plus: Stockflare Plus
+        subscribed: "感謝訂購Stockflare Plus。"
+        trialing:
+          contine: "繼續獲得我們的"
+          days_left: "接下來的%trial_days天，你將試用我們的Stockflare Plus。"
+          plus: Plus提醒
+          subscribe: "訂購"
+      visit_alerts: "查看提醒"
+      watchlist: "觀察列表"
+    unsubscribe:
+      information:
+        button: "轉到設定"
+        checking: "請稍等。我們正在檢查你的取消訂閱連結。"
+        error: "取消訂閱連結無效。請登錄你的設置介面來改變郵件偏好。"
+        title: "取消提醒郵件訂閱"
+        unsubscribed: " '下列電子郵寄地址已取消訂閱"
+  appender:
+    add: "添加股票"
+    noMatches: 0 結果
+    pressEnter: "按下Enter以添加"
+    search: "查找"
+  brokerage:
+    brokerages:
+      drivewealth: Drivewealth
+      etrade: E-Trade
+      fidelity: Fidelity
+      ib: Interactive Brokers
+      options_house: Options House
+      robinhood: Robinhood
+      schwab: Schwab
+      scottrade: Scottrade
+      td: TD Ameritrade
+      trade_king: Trade King
+      trade_station: Trade Station
+      tradier: Tradier
+    chat:
+      item:
+        btn: 
+        postFor: 
+      title: 
+    connect:
+      details:
+        account: "經紀商帳號"
+        button: "登入並連線"
+        conditions: "按下“登入並連線”即表示您同意 Stockflare 的服務條款。"
+        id: "經紀商使用者 ID"
+        password: "經紀商密碼"
+        username: "經紀帳戶用戶名"
+        zerodha: "登入 Zerodha"
+      help:
+        login:
+          robinhood: "連線您的 Robinhood 帳戶時遇到了困難嗎？請檢查您輸入的是 Robinhood 使用者名稱，而不是您的電子郵件地址。另外，要輸入您的密碼，而不是 PIN 碼。"
+      teaser:
+        alerts:
+          description: "更好的追蹤方式。使用我們的智慧提醒來觀察你投資的健康程度。"
+          title: "獲取我們的智慧提醒"
+        encryption:
+          description: "我們會為你的所有資料加密，並且只與安全可靠的夥伴合作，例如亞馬遜網站服務（AWS）。"
+          title: "強有力的加密技術"
+        no_brokerage: "我沒有經紀商"
+        trade:
+          description: "幾秒鐘即可連接你的經紀帳戶並獲取我們對你當前投資組合的分析。你也可以交易。"
+          title: "簡單導入"
+      title: "連接經紀帳戶"
+    flash:
+      positions_not_refreshed: "我們無法聯絡您的經紀商來更新您的位置"
+      positions_refreshed: "您的投資組合位置已更新"
+      positions_refreshing: "更新您的投資組合位置"
+  chat:
+    item:
+      btn: 
+      postFor: 
+      prefix: 
+    title: 
+  common:
+    alerts_emails:
+      'false': "不要發送郵件"
+      'true': "發送郵件"
+    countries:
+      afg: "阿富汗"
+      ago: "安哥拉"
+      alb: " 阿爾巴尼亞"
+      are: " 阿拉伯聯合酋長國"
+      arg: " 阿根廷"
+      arm: " 亞美尼亞"
+      aus: " 澳大利亞"
+      aut: " 奧地利"
+      aze: " 阿塞拜疆"
+      bdi: " 布隆迪"
+      bel: " 比利時"
+      ben: " 貝寧"
+      bfa: " 布基納法索"
+      bgd: " 孟加拉國"
+      bgr: " 保加利亞"
+      bhr: " 巴林"
+      bhs: " 巴哈馬"
+      bih: " 波斯尼亞和黑塞哥維那"
+      blr: " 白俄羅斯"
+      blz: " 伯利茲"
+      bmu: " 百慕大"
+      bol: " 玻利維亞"
+      bra: " 巴西"
+      brb: " 巴巴多斯"
+      brn: " 文萊達魯薩蘭國"
+      btn: " 不丹"
+      bwa: " 博茨瓦納"
+      caf: " 中非共和國"
+      can: " 加拿大"
+      che: " 瑞士"
+      chl: " 智利"
+      chn: " 中國"
+      civ: " 科特迪瓦"
+      cmr: " 喀麥隆"
+      cod: " 剛果民主共和國"
+      cog: " 剛果"
+      col: " 哥倫比亞"
+      com: " 科摩羅"
+      cpv: "佛得角"
+      cri: " 哥斯達黎加"
+      cub: " 古巴"
+      cym: " 開曼群島"
+      cyp: " 塞浦路斯"
+      cze: " 捷克共和國"
+      deu: " 德國"
+      dji: " 吉布提"
+      dma: " 多米尼克"
+      dnk: " 丹麥"
+      dom: " 多明尼加共和國"
+      dza: " 阿爾及利亞"
+      ecu: " 厄瓜多爾"
+      egy: " 埃及"
+      eri: " 厄立特里亞"
+      esp: " 西班牙"
+      est: " 愛沙尼亞"
+      eth: " 埃塞俄比亞"
+      fin: " 芬蘭"
+      fji: " 斐濟"
+      fra: " 法國"
+      gab: " 加蓬"
+      gbr: " 英國"
+      geo: " 格魯吉亞"
+      ggy: " 根西島"
+      gha: " 加納"
+      gib: " 直布羅陀"
+      gin: " 幾內亞"
+      glp: " 瓜德羅普"
+      gmb: " 岡比亞"
+      gnb: " 幾內亞比紹"
+      gnq: " 赤道幾內亞"
+      grc: " 希臘"
+      grd: " 格林納達"
+      gtm: " 危地馬拉"
+      guf: " 法屬圭亞那"
+      guy: " 圭亞那"
+      hkg: " 香港"
+      hnd: " 洪都拉斯"
+      hrv: " 克羅地亞"
+      hti: " 海地"
+      hun: " 匈牙利"
+      idn: " 印度尼西亞"
+      imn: " 馬恩島"
+      ind: " 印度"
+      irl: " 愛爾蘭"
+      irn: " 伊朗"
+      irq: " 伊拉克"
+      isl: " 冰島"
+      isr: " 以色列"
+      ita: " 意大利"
+      jam: " 牙買加"
+      jey: " 澤西島"
+      jor: " 約旦"
+      jpn: " 日本"
+      kaz: " 哈薩克斯坦"
+      ken: " 肯尼亞"
+      kgz: " 吉爾吉斯斯坦"
+      khm: " 柬埔寨"
+      kor: " 韓國"
+      kwt: " 科威特"
+      lao: " 老撾"
+      lbn: " 黎巴嫩"
+      lbr: " 利比里亞"
+      lby: " 利比亞"
+      lka: " 斯里蘭卡"
+      lso: " 萊索托"
+      ltu: " 立陶宛"
+      lux: " 盧森堡"
+      lva: " 拉脫維亞"
+      mac: " 澳門"
+      mar: " 摩洛哥"
+      mda: " 摩爾多瓦"
+      mdg: " 馬達加斯加"
+      mdv: " 馬爾代夫"
+      mex: " 墨西哥"
+      mkd: " 馬其頓"
+      mli: " 馬里"
+      mlt: " 馬耳他"
+      mmr: " 緬甸"
+      mne: " 黑山"
+      mng: " 蒙古"
+      moz: " 莫桑比克"
+      mrt: " 毛里塔尼亞"
+      mtq: " 馬提尼克"
+      mus: " 毛里求斯"
+      mwi: " 馬拉維"
+      mys: " 馬來西亞"
+      nam: " 納米比亞"
+      ner: " 尼日爾"
+      nga: " 尼日利亞"
+      nic: " 尼加拉瓜"
+      nld: " 荷蘭"
+      nor: " 挪威"
+      npl: " 尼泊爾"
+      nzl: " 新西蘭"
+      omn: " 阿曼"
+      pak: " 巴基斯坦"
+      pan: " 巴拿馬"
+      per: " 秘魯"
+      phl: " 菲律賓"
+      png: " 巴布亞新幾內亞"
+      pol: " 波蘭"
+      pri: " 波多黎各"
+      prk: " 北朝鮮"
+      prt: " 葡萄牙"
+      pry: " 巴拉圭"
+      pse: " 巴勒斯坦"
+      qat: " 卡塔爾"
+      rou: " 羅馬尼亞"
+      rus: " 俄國"
+      rwa: " 盧旺達"
+      sau: " 沙特阿拉伯"
+      sdn: " 蘇丹"
+      sen: " 塞內加爾"
+      sgp: " 新加坡"
+      slb: " 所羅門群島"
+      sle: " 塞拉利昂"
+      slv: " 薩爾瓦多"
+      som: " 索馬里"
+      srb: " 塞爾維亞"
+      ssd: " 南蘇丹"
+      stp: " 聖多美和普林西比"
+      sur: " 蘇里南"
+      svk: " 斯洛伐克"
+      svn: " 斯洛維尼亞"
+      swe: " 瑞典"
+      swz: " 斯威士蘭"
+      syc: " 塞舌爾"
+      syr: " 敘利亞"
+      tcd: " 乍得"
+      tgo: " 多哥"
+      tha: " 泰國"
+      tjk: " 塔吉克斯坦"
+      tkm: " 土庫曼斯坦"
+      tls: " 東帝汶"
+      ton: " 湯加"
+      tto: " 特立尼達和多巴哥"
+      tun: " 突尼斯"
+      tur: " 火雞"
+      tuv: " 圖瓦盧"
+      twn: " 台灣"
+      tza: " 坦桑尼亞"
+      uga: " 烏干達"
+      ukr: " 烏克蘭"
+      ury: " 烏拉圭"
+      usa: " 美國"
+      uzb: " 烏茲別克斯坦"
+      ven: " 委內瑞拉"
+      vgb: " 英屬維爾京群島"
+      vir: " 美屬維爾京群島"
+      vnm: " 越南"
+      wsm: " 薩摩亞"
+      xxx: " 全球"
+      yem: " 也門"
+      zaf: " 南非"
+      zmb: " 贊比亞"
+      zwe: " 津巴布韋"
+    currencies:
+      symbols:
+        aed: "%nد.إ"
+        afn: "؋%n"
+        all: Lek%n
+        amd: "%ndram"
+        ang: "ƒ%n"
+        aoa: Kz%n
+        ars: "$%n"
+        aud: "$%n"
+        awg: "ƒ%n"
+        azn: "ман%n"
+        bam: KM%n
+        bbd: "$%n"
+        bdt: "৳%n"
+        bgn: "лв%n"
+        bhd: "%n.د.ب"
+        bif: FBu%n
+        bmd: "$%n"
+        bnd: "$%n"
+        bob: "$b%n"
+        brl: R$%n
+        bsd: "$%n"
+        btn: Nu.%n
+        bwp: P%n
+        byr: p.%n
+        bzd: BZ$%n
+        cad: "$%n"
+        cdf: Fr%n
+        chf: CHF%n
+        clf: "$%n"
+        clp: "$%n"
+        cny: "¥%n"
+        cop: "$%n"
+        crc: "₡%n"
+        cup: "₱%n"
+        cve: Esc%n
+        czk: Kč%n
+        djf: Fr%n
+        dkk: "%nkr"
+        dop: RD$%n
+        dzd: "دج%n"
+        eek: "%nkr"
+        egp: "£%n"
+        ern: Nfk%n
+        etb: Br%n
+        eur: "€%n"
+        fjd: "$%n"
+        fkp: "£%n"
+        gbp: "£%n"
+        gel: "%nlari"
+        ggp: "£%n"
+        ghc: "¢%n"
+        ghs: GH₵%n
+        gip: "£%n"
+        gmd: D%n
+        gnf: Fr%n
+        gtq: Q%n
+        gyd: "$%n"
+        hkd: "$%n"
+        hnl: L%n
+        hrk: kn%n
+        htg: G%n
+        huf: "%nFt"
+        idr: Rp%n
+        ils: "₪%n"
+        imp: "£%n"
+        inr: "₹%n"
+        iqd: "%nد.ع"
+        irr: "﷼%n"
+        isk: "%nkr"
+        jep: "£%n"
+        jmd: J$%n
+        jod: "%nدينار"
+        jpy: "¥%n"
+        kes: Ksh%n
+        kgs: "лв%n"
+        khr: "៛%n"
+        kmf: Fr%n
+        kpw: "₩%n"
+        krw: "₩%n"
+        kwd: "د.ك%n"
+        kyd: "$%n"
+        kzt: "лв%n"
+        lak: "₭%n"
+        lbp: "£%n"
+        lkr: "₨%n"
+        lrd: "$%n"
+        lsl: M%n
+        ltl: Lt%n
+        lvl: Ls%n
+        lyd: "ل.د%n"
+        mad: "د.م.%n"
+        mdl: "%nleu"
+        mga: Ar%n
+        mkd: "ден%n"
+        mmk: K%n
+        mnt: "₮%n"
+        mop: MOP$%n
+        mro: UM%n
+        mur: "₨%n"
+        mvr: Rf.%n
+        mwk: MK%n
+        mxn: "$%n"
+        myr: RM%n
+        mzn: MT%n
+        nad: "$%n"
+        ngn: "₦%n"
+        nio: C$%n
+        nok: "%nkr"
+        npr: "₨%n"
+        nzd: "$%n"
+        omr: "﷼%n"
+        pab: B/.%n
+        pen: S/.%n
+        pgk: K%n
+        php: "₱%n"
+        pkr: "₨%n"
+        pln: "%n zł"
+        pyg: Gs%n
+        qar: "﷼%n"
+        ron: lei%n
+        rsd: "Дин.%n"
+        rub: "руб%n"
+        rwf: FRw%n
+        sar: "﷼%n"
+        sbd: "$%n"
+        scr: "₨%n"
+        sdg: "ج.س.‏%n"
+        sek: "%nkr"
+        sgd: "$%n"
+        shp: "£%n"
+        sll: Le%n
+        sos: S%n
+        srd: "$%n"
+        std: Db%n
+        svc: "$%n"
+        syp: "£%n"
+        szl: E%n
+        thb: "฿%n"
+        tjs: "%ncомонӣ"
+        tmt: T%n
+        tnd: "د.ت%n"
+        top: "$%n"
+        trl: "₤%n"
+        try: "₤%n"
+        ttd: TT$%n
+        tvd: "$%n"
+        twd: NT$%n
+        tzs: TSh%n
+        uah: "₴%n"
+        ugx: USh%n
+        usd: "$%n"
+        uyu: "$U%n"
+        uzs: "лв%n"
+        vef: Bs%n
+        vnd: "₫%n"
+        vuv: VT%n
+        wst: WS$%n
+        xaf: FCFA%n
+        xcd: "$%n"
+        xof: CFA%n
+        xpf: F%n
+        yer: "﷼%n"
+        zar: R%n
+        zmw: ZK%n
+        zwd: Z$%n
+    defaultPageTitle: "輕鬆選擇股票"
+    empty: "空"
+    languages:
+      ar: "عربى"
+      de: Deutsch
+      de-DE: Deutsch
+      en: English
+      en-US: English
+      es: Español
+      es-ES: Español
+      fr: Français
+      fr-FR: Français
+      he: "עברית"
+      hi: "हिन्दी"
+      it: Italiano
+      it-IT: Italiano
+      ja: "日本語"
+      ja-JP: "日本語"
+      pt: Portuguese
+      pt-PT: Portuguese
+      zh-CN: "中文(简体)"
+      zh-HK: "中文 (繁體)"
+    loading: "載入中…"
+    login: "登錄"
+    pages:
+      privacy_policy: "隱私政策"
+      tos: "服務條款"
+    regions:
+      amer: "美洲"
+      apac: "亞太"
+      emea: "歐洲、中東&非洲"
+    register: "免費註冊"
+    social:
+      email: "發郵件給朋友"
+    tooltips:
+      watch:
+        unwatch: "從你的觀察列表中移除"
+        watch: "添加至你的觀察列表"
+      widget:
+        alerts: "股票提醒"
+        graph: "價格表"
+        info: "關鍵指標"
+        missing: Stockflare上沒有該工具
+        social: "股份"
+        trade: "買入或賣出%n"
+        unavailable: "只能交易美國股票"
+    unwatch: "取消觀察"
+    wallStreetRecommendations:
+      emptyCategory: "你在該分類下沒有股票"
+      missing: N/A
+      price: "價格"
+      recommendation: "評論"
+      target: "目標"
+      titles:
+        buy: "買入"
+        hold: "持有"
+        sell: "賣出"
+        strong_buy: "強力買入"
+        strong_sell: "強力賣出"
+        unknown: " N/A"
+    watch: "觀察"
+  databank:
+    categories:
+      bestDividends:
+        subtitle: "按行業查看紅利"
+        title: "最佳紅利？"
+      globalTitans:
+        subtitle: "最大的市場如何比較"
+        title: "全球巨人"
+      growth:
+        subtitle: "比較增長與價值"
+        title: "尋找增長？"
+      highUpside:
+        subtitle: "經紀人最喜歡哪些行業？"
+        title: "高高在上！"
+      lessThanBook:
+        subtitle: "最佳帳面價值在哪?"
+        title: "低於帳面"
+      subtitle: "使用這些選項測試資料庫"
+      talkingTech:
+        subtitle: "最佳技術市場在哪？"
+        title: "討論技術"
+      title: "流行圖形"
+    chartInfo: 
+    compare:
+      forecast_dividend_yield: "預測紅利收益"
+      forecast_pe: "預測PE"
+      historic_dividend_yield: "歷史紅利收益"
+      long_term_gain: "長期收益"
+      long_term_growth: "長期增長"
+      market_value_usd: "全部市場價值 美元$"
+      martk_value_usd: "總市值（美元）"
+      one_month_forecast_eps_change: "收入變化 1M"
+      one_month_price_change: "價格變化 1M"
+      pe_ratio: PE率
+      percentage_up_downside: "向上/向下"
+      price_to_book_value: "市淨率"
+      rating: "星級評分"
+      recommendation: "推薦"
+      return_on_equity: "淨資產收益率"
+      return_on_requity: "股東權益報酬率"
+      star_rating: "星級評分"
+      three_month_forecast_eps_change: "收入變化 3M"
+      three_month_price_change: "價格變化 3M"
+    compareLabel: "比較"
+    comparePlaceholder: "選擇比較標準"
+    country:
+      _all: "全球"
+      amer: AMER（美洲）
+      apac: APAC（亞太）
+      emea: EMEA（歐洲和非洲）
+      global: "全球"
+      input:
+        add: "在這裡回車以添加"
+        placeholder: "類型 國家名稱"
+      label: "國家"
+    disclaimer:
+      partFour: "如果我們提及某個國家或行業，我們指的是路透社行業分類與股票交易所在國。我們僅分析首先列出的一般股票，不包括封閉式基金和存托憑證。"
+      partOne: Stockflare的資料庫提供區域、國家和行業的總體資料概覽。
+      partThree: "例如，我們的平均PE計算，不包括虧損股票和超過100x收入的PE價值。我們的紅利收益是所有每年支付紅利少於15%的股票平均值。請聯繫我們以獲取完整的調整列表。"
+      partTwo: "所呈現的資訊均是調整後的平均值，“全部市場價值美元標準”除外。我們調整平均值以排除離群值。"
+    searchTitle: 
+    sectors:
+      _all: "所有行業"
+      add: "點擊回車以添加"
+      all: "所有行業"
+      label: "行業"
+    select:
+      allow:
+        plural: "你可以多選擇%n項目"
+        single: "你可以多選擇%n項目"
+      limit: "你已達到可選量上限"
+    subtitle: "比較國家與行業關鍵資料點"
+    title: Stockflare資料庫（Beta）
+  delete:
+    copy:
+      deleted: "您的帳戶已被成功刪除，所有資訊已從我們的系統中永久移除。此動作無法復原。"
+      deleting: "你的帳戶已刪除。"
+      error: "試圖刪除您的帳戶時遇到錯誤。請聯絡 support@stockflare.com"
+    titles:
+      deleted: "帳戶已被刪除"
+      deleting: "正在刪除帳戶…"
+      error: "發生了錯誤"
+  explore:
+    all: "所有股票"
+    biLine: "需要一點靈感嗎？"
+    categories:
+      big-and-cheap:
+        description: "許多著名的大公司被投資者忽略了。也許有一天它們會回歸？"
+        disclaimer: "該類別的股票是使用所有股票的過濾器產生的，市值超過500億美元，比使用市盈率的競爭對手便宜。"
+        name: "大&便宜"
+      boring-businesses:
+        description: "誰說你必須投資下一支熱門股票！試想你正在與朋友談論顏料、塑膠、電池，還有滾珠軸承、下水道或者衛浴產品。這裡有檢驗公司、獸醫業務以及殯儀館。來看看吧！"
+        disclaimer: "該類別的股票是使用所有股票過濾器產生的，市值超過10億美元，並已通過至少1項關鍵指標測試（例如盈利，股息，高增長等）。 然後我們來看看與這個過濾器相匹配的股票，也是以下任何一個行業：油漆，塑料，電池，球軸承，污水，衛生產品，測試公司，獸醫企業和殯儀館。"
+        name: "無聊的業務"
+      break_through:
+        description: 
+        disclaimer: 
+        name: 
+      cash-heavy:
+        description: "有幾家公司沒有債務，而且忙著向它們的股東支付所有賺取的現金流。它們既是以現金為主的公司又是搖錢樹嗎？"
+        disclaimer: "該類別的股票是使用所有股票的過濾器產生的，市場價值超過5億美元，其資產負債表具有淨現金頭寸，並支付大量股息（即產出超過4％）。"
+        name: "以現金為主"
+      coffee-cake:
+        description: "為生活中小小的喜悅投資而無需為多吃了一點糖有負罪感。"
+        disclaimer: "該類別的股票是使用所有股票過濾器產生的，市值超過5億美元，並已通過至少2項關鍵指標測試（例如有利可圖，支付股息等）。 然後我們來看看與這個過濾器匹配的股票，也是以下任何一個行業：咖啡館，咖啡和甘蔗農場，餅乾製造商，甜味劑和糖果店。"
+        name: "咖啡&蛋糕"
+      debt-heavy:
+        description: "它們負債累累，你能發現可以轉危為安的股票嗎？"
+        disclaimer: "該類別的股票基於所有股票的過濾器，市場價值超過5億美元，不是財務，但淨負債的營業利潤指標超過3倍"
+        name: "高負債"
+      degrading:
+        description: 
+        disclaimer: 
+        name: 
+      dividend-disasters:
+        description: "當公司支出的現金比收入的還多時，就很讓人擔心了。也許紅利很難持久。"
+        disclaimer: "該類股票的基礎是過濾所有股票，市值超過5億美元，但每股預測股息高於預期每股收益。"
+        name: "紅利災難？"
+      fallen_hard:
+        description: 
+        disclaimer: 
+        name: 
+      gem-stones:
+        description: "鑽石是投資者最好的朋友嗎？鑽石、寶石、采珠人。這一切都能讓投資者眼花繚亂。"
+        disclaimer: "該類別的股票是使用所有股票過濾器產生的，市值超過1億美元，並已通過至少1次關鍵指標測試（例如盈利等）。 然後，我們來看看以下任何一個行業的股票：鑽石開採，半寶石，珍珠。"
+        name: "寶石"
+      going-nuclear:
+        description: "核能稀缺、潔淨，但是當我們進入後石油時代，我們必須要依賴可再生能源來為我們的星球充電。"
+        disclaimer: "該類別的股票是使用所有股票過濾器產生的，市值超過1億美元，並已通過至少1次關鍵指標測試（例如盈利等）。 然後，我們來看看以下任何一個行業的股票：鈾，核能零部件和建築，核能公用事業。"
+        name: "核能時代"
+      great-gains:
+        description: "當所有星星成一條直線時，華爾街的專家就會預測股東收入和收益的巨大增長。"
+        disclaimer: "這一類別的股票基於所有股票的過濾器，市場價值超過5億美元，預測長期收益每年超過20％，根據共識預測。"
+        name: "巨大收益"
+      hated-by-wall-street:
+        description: "如果你是那種不相信華爾街和從眾心理的悲觀主義者，還有什麼是比投資華爾街討厭的公司最好的做法呢！"
+        disclaimer: "該類別的股票是使用所有股票的過濾器產生的，市值超過5億美元，共識股票經紀人建議是賣出或強力賣出。"
+        name: "華爾街討厭的公司"
+      healthy-tech:
+        description: "生物科技公司每天都在創造美妙的進步。為什麼不支持那些致力於解決最艱難的健康問題的科學家那裡呢？"
+        disclaimer: "該類別的股票是使用過濾所有股票的過濾器，其市值超過10億美元，分為以下部門：生物製藥，生物技術和醫學研究。"
+        name: "健康科技"
+      high-upside:
+        description: "哪些股票是被華爾街認為能夠增長50%以上 的"
+        disclaimer: "這個類別的股票是基於所有股票超過500美元的過濾器，並且價格目標至少比當前價格高出50％。"
+        name: "巨大的上行潛力"
+      land-and-sea:
+        description: "我們都要吃飯，對吧？農業領域有很多公司。從農民到製造機械和殺蟲劑的人。這裡有美國最強大的選手。"
+        disclaimer: "該類別的股票是使用過濾所有股票的過濾器，市場價值超過10億美元，分為以下行業：農藥，棉花種植，漁業和農業，煙草種植。"
+        name: "土地&海洋"
+      latest-greatest:
+        description: "你喜歡新材料嗎？最近的首次公開發售怎麼樣？"
+        disclaimer: "這一類股是基於過去三個月完成首次公開募股的所有股票超過5000萬美元的過濾器"
+        name: "最新的。而且還是最強的？"
+      legal-eagles:
+        description: "律師和會計只不過是一筆費用，你也可以投資他們！"
+        disclaimer: "該類別的股票是使用所有股票的過濾器生成的，市值超過5000萬美元，並已通過至少1次關鍵指標測試（例如盈利等）。 然後，我們看看以下任何一個行業的股票：會計和法律服務，法律和稅務信息提供者。"
+        name: "傑出的律師"
+      less-than-book:
+        description: "雖然很罕見，但有的時候股票的交易價格是低於帳面價值的。知道為什麼嗎？"
+        disclaimer: "這個類別的股票基於所有超過1億美元的股票的過濾器，交易量低於賬面價值的1倍，具有正面的報告和歷史性的eps。"
+        name: "低於帳面"
+      little-winners:
+        description: "正在尋找能夠支付得起的股票嗎？每股低於10美元的？"
+        disclaimer: "該類別的股票基於所有股票的過濾器，市場價值超過5億美元，其中股票如果盈利，支付股息和股票價格在每股1.00美元到10.00美元之間。"
+        name: "小贏家？"
+      mega-dividends:
+        description: "如果現金是國王，那麼獲得大量紅利可能就是那張門票！"
+        disclaimer: "這一類別的股票基於對所有股票的過濾器，其市值超過500美元，股息率高於5％。 我們排除了預測股息高於預測收益的任何異常值。"
+        name: "超大紅利"
+      mega-losses:
+        description: "有一些股票雖然容易虧損，估價卻很高。誰能對抗虧損？"
+        disclaimer: "該類別的股票是基於所有股票過濾器，市值超過100億美元，預計今年公司將虧損。"
+        name: "巨大虧損"
+      moonshot:
+        description: 
+        disclaimer: 
+        name: 
+      movers-shakers:
+        description: "昨天哪些股票是備受關注的？"
+        disclaimer: "該類股的股票基於所有大盤股的過濾器，昨日漲幅超過2.5％，所有小盤股均超過5.0％。"
+        name: "有呼風喚雨的能力"
+      negative-fundamentals:
+        description: "銷售更差，收入更差，華爾街不開心！"
+        disclaimer: "该类股的股票基于所有股票的过滤器，这些股票在共识目标价格，预测销售和预测收益中连续两次下滑"
+        name: "浪潮湧動"
+      negative_technicals:
+        description: 
+        disclaimer: 
+        name: 
+      positive-fundamentals:
+        description: "銷售更好，收入更好，經紀人越來越開心！"
+        disclaimer: "该类股的股票基于对所有股票的过滤，这些股票在共识目标价格，预测销售和预测收益中连续两次上涨"
+        name: "交好運"
+      positive_technicals:
+        description: 
+        disclaimer: 
+        name: 
+      renewables:
+        description: "如果你想在處於後石油時代的世界投資，可再生能源市場上有許多公司可選。它們的技術和產品包括風能、太陽能、潮汐能和氫能。這裡有引領市場的選手列表。"
+        disclaimer: "该类别中的股票是使用已通过至少3次关键指标测试（例如盈利等）的所有股票的过滤器产生的。 然后我们来看看以下任何一个行业的股票：可再生能源，可再生能源。"
+        name: "可再生的"
+      sales-rush:
+        description: "有時候，銷售就像火箭一樣往上竄。但它還是那個價格嗎？"
+        disclaimer: The stocks in this category are based on a filter of all stocks with a market value over $500m where the forecast sales in the next quarter is greater than all the sales for the last 12 months.
+        name: "銷售高峰"
+      shining_bright:
+        description: 
+        disclaimer: 
+        name: 
+      ship-it:
+        description: "如果你想用運輸大宗貨物，只能走海運。但是你可以像投資巨型油輪一樣投資休閒船。"
+        disclaimer: "该类别中的股票是使用所有股票的过滤器生成的，市场价值超过5亿美元，并已通过至少1次关键指标测试（例如盈利等）。 然后，我们看看以下任何一个行业的股票：海运油轮，造船，海运和物流，游艇和摩托艇，海运服务。"
+        name: "起航吧"
+      space-race:
+        description: "看看未來的霸主，火箭、衛星製造商以及依賴衛星運轉的商業。"
+        disclaimer: "该类别的股票是使用市场价值超过1亿美元的所有股票的过滤器产生的，这些股票在以下行业：卫星和航天器制造业，卫星网络和导航，卫星运营商。"
+        name: "太空競賽"
+      sporting-outdoors:
+        description: "你也可以在股票市場上支援一支體育隊伍。或者穿上他們的隊服、去賽事場地。"
+        disclaimer: "该类别中的股票使用已通过至少1次关键指标测试（例如盈利等）的所有股票的过滤器生成。 然后，我们看看以下任何一个行业的股票：户外服装鞋类，户外用品，健身房，滑雪场，体育场馆，高尔夫球场，体育用品店，户外零售商。"
+        name: "戶外運動"
+      strong-buys:
+        description: "試想一下，華爾街不僅將某些股票評為推薦購買，而且將少數股票評為強力推薦購買。"
+        disclaimer: "该类别的股票是基于所有股票的过滤器，市值超过5亿美元，其中一致建议是强力买入。"
+        name: "強力推薦購買"
+      super-cash:
+        description: "收入和紅利只是觀察現金流的方式之一。基於自由現金流的最便宜的股票怎麼樣。"
+        disclaimer: "该类别的股票基于所有股票的过滤器，市场价值超过5亿美元，其中公司是有利可图的，支付股息，自由现金流量收益率超过15％。"
+        name: "超級現金"
+      taking-it-easy:
+        description: "誰說只有選擇股票才是好的投資！你也可以只選擇ETF，也就是交易所交易基金。大多數追蹤一個著名的指數。不用和市場對抗，你也可以做得像它一樣好！"
+        disclaimer: "该类别的股票均为ETF（交易所交易基金），利用以下行业的市值超过100亿美元的所有股票过滤器产生：交易所交易基金。"
+        name: "放輕鬆"
+      tech-titans:
+        description: "如果“科技正在吞噬世界”，這裡有幾個篩選出來的公司正在享用它們的午餐。"
+        disclaimer: "该类别中的股票是通过使用已经通过至少1次关键指标测试（例如盈利等）的市值超过100亿美元的所有股票的过滤器产生的。然后我们来看看下列行业之后的股票：技术。"
+        name: "科技巨頭"
+      thirsty:
+        description: "很少東西像乾淨的水一樣是必需品。隨著人口的增長，需求也會越來越大。"
+        disclaimer: "该类别中的股票使用已通过至少1次关键指标测试（例如盈利等）的所有股票的过滤器生成。 然后，我们来看看以下任何一个行业的股票：水和污水处理，瓶装水和冰，水务。"
+        name: "渴了嗎？"
+      timber:
+        description: "想投資森林、伐木業和木材生意嗎？這裡有最大的選手。"
+        disclaimer: "该类别的股票是使用所有股票过滤器产生的，市值超过1亿美元，并已通过至少2次关键指标测试（例如盈利等）。 然后我们来看看以下任何一个行业的股票：纸和林产品，木制容器和包装，纸包装，木材REITs。"
+        name: "木材！"
+      time-online:
+        description: "當網路將越來越多的時間從電視上奪走，引領者是誰已經一清二楚了。你想投資你所用產品的公司嗎？"
+        disclaimer: "该类别中的股票是通过使用已经通过至少1次关键指标测试（例如盈利等）的市值超过100亿美元的所有股票的过滤器产生的。 然后，我们来看看以下任何一个行业的股票：互联网服务。"
+        name: "線上時間"
+      top-job:
+        description: "喜歡生產力？擁有最高員工平均收入的那些股票怎麼樣？"
+        disclaimer: "该类别的股票基于所有超过5亿美元的所有股票的过滤器，每名员工的收入超过100万美元"
+        name: "最棒的工作"
+      us-option:
+        description: "美國有許多非公民的外星人。你認識嗎？"
+        disclaimer: "该类别中的股票基于在美国上市的所有存托凭证的过滤器"
+        name: "去美國"
+      us_option:
+        description: 
+        disclaimer: 
+        name: 
+      vice-not-nice:
+        description: "沒有道德了？想要投資毒品、酒精、博彩、槍支或是其他罪惡的行業？"
+        disclaimer: "该类别中的股票是通过使用已经通过至少2次关键指标测试（例如盈利等）的市场价值超过5亿美元的所有股票过滤器产生的。 然后我们来看看以下任何一个行业的股票：武器制造，酒吧和夜总会，赌场和游戏，成人娱乐和零售商，酿酒商和啤酒厂，啤酒和烟草店。"
+        name: "罪惡，這個主意不太好"
+      worth-it:
+        description: "估價非常好，但你覺得這些高波動股票值得投資嗎？"
+        disclaimer: "该类别的股票基于所有股票的过滤器，市场价值超过5亿美元，其中PE比率超过50倍的预测收益或销售价格比率超过10倍。"
+        name: "值得一做"
+      young-and-old:
+        description: "從服裝到玩具，沒有年齡之分。這是適合所有人的投資選擇。"
+        disclaimer: "该类别中的股票是通过使用已经通过至少2次关键指标测试（例如盈利等）的市值超过10亿美元的所有股票的过滤器产生的。 然后，我们看看以下任何一个行业的股票：儿童服装鞋类，养老院，玩具，邮轮，儿童和青少年零售商，婴儿食品，避孕产品，儿童保育，殡仪服务，眼镜和隐形眼镜 ， 長期護理。"
+        name: "年輕&年老"
+    filters: "%n後的篩檢程式"
+    pageDescription: "需要一點靈感嗎？Stockflare創建了一些很好的分類來幫助你開始。"
+    pageTitle: "探索Stockflare"
+    popular: "最大的股票在%n"
+  explore_history:
+    email:
+      lost_heading: "下列股票不再位於%explore_category"
+      new_heading: "下列股票現在位於%explore_category"
+      subject_lost: "部分股票不再位於%explore_category inc.。%rics"
+      subject_new: "新的股票現在位於%explore_category inc.。%rics"
+      unsubscribe_link: "退訂"
+      unsubscribe_text: "按下這裡退訂"
+      view_category: "檢視%explore_category"
+  filterBar:
+    sectors:
+    - code: '50'
+      name: "油&氣"
+    - code: '51'
+      name: "礦業&材料"
+    - code: '52'
+      name: "工業"
+    - code: '54'
+      name: "消費（食品&居家）"
+    - code: '53'
+      name: "消費（其他）"
+    - code: '55'
+      name: "金融"
+    - code: '56'
+      name: "健康"
+    - code: '57'
+      name: "科技"
+    - code: '58'
+      name: "電信"
+    - code: '59'
+      name: "公共事業"
+  gift:
+    refer:
+      information:
+        buttons:
+          send: "發送邀請"
+        copy: "給你最好的朋友們發送一個包含我們所有高級功能的14天免費試用。如果他們接受了，你將得到1個月的免費使用機會！"
+        features:
+          first:
+            description: "我們將向他們發送一個特別的連結，這個連結將啟動你的1個月免費資格。"
+            title: "通過電子郵件邀請你的朋友"
+          second:
+            description: "他們可以在15秒以內註冊"
+            title: "他們在Stockflare註冊"
+          third:
+            description: "你的朋友加入後，我們將立刻為你啟動1個月免費使用資格"
+            title: "你得到了1個月免費使用資格！"
+        fields:
+          email: "朋友的電子郵寄地址"
+        messages:
+          error: "無法傳送邀請！"
+          invlaid_email: "電子郵件地址無效！"
+          sent: "已傳送邀請"
+        title: "免費用1個月怎麼樣？"
+  header:
+    buttons:
+      about: "關於Stockflare"
+      alerts: "我的提醒"
+      chat: 
+      databank: "資料庫"
+      explore: "發現"
+      filters: "過濾器"
+      guestWatched: "保存監視清單"
+      home: "儀錶板"
+      ideas: "選擇股票"
+      learnMore: 
+      plans: 
+      search: "搜尋"
+      watchlist: "我的觀察列表"
+  hodor_landing:
+    broker_logo: https://public.stockflare.com/assets/hodor_landing/drivewealth.png
+    features:
+      alerts: "評論性提醒和通知説明你瞭解最新動態"
+      global: "超過45,000支全球股票的清晰分析"
+      reuters: "一項建立在路透社全球頂尖資料上的服務"
+      sec: "連接你的傭金帳戶以獲取個性化的觀察"
+    footer:
+      about:
+        about_us: "關於我們"
+        eduacation: "教育"
+        faq: "常見問題"
+        title: "關於"
+      block:
+        companies_house: CompaniesHouse.gov.uk
+        drivewealth: "*我們的夥伴DriveWealth LLC的標準傭金利率是每股0.0125美元，最少2.99美元。部分股票的傭金為每筆交易比每支整股少0.99美元。也可以進入DriveWealth無限制計畫的平臺，該平臺為每股股票交易提供0.01美元作為加入Stockflare Plus的獎勵。"
+        information_only: Stockflare是一項基於“現狀”和“可用”的資訊服務。我們不提供建議或推薦服務。我們是一項為自行定向的投資者提供的搜索工具。請確保你已經理解我們的服務條款。如果你有不理解的問題，請與我們取得聯繫。
+        invest_wise: "更多節省，精明投資。"
+        long_term_investing: Stockflare支持長期投資股票和低成本的ETF。我們不相信高成本的共有基金或主動型管理人能夠代表金錢的價值。我們不喜歡複雜的投資、投機或當日交易。就像Phil Fisher說的那樣：保守型的投資者可以睡得更安穩。
+        loss_warning: "請記住投資包括風險，投資也可能損失價值，也就是說，你將在某些投資中損失金錢。因此我們在Stockflare的一個關鍵目標就是為你提供可以幫助你把損失降低到最小限度的工具。"
+        operated: "該網站由英國的Stockflare有限公司運行並所有。訪問我們在英國的存檔資訊"
+      contact:
+        email: "電子郵件"
+        facebook: " Facebook"
+        title: "聯繫"
+        twitter: " Twitter"
+      description: Stockflare可以幫助任何人選擇股票。投資不必很複雜。我們每天要按照數百項指標篩選全球的45,000多支股票。
+      legals:
+        privacy: "隱私"
+        terms: "條款"
+        title: "法律"
+      title: |2
+
+        Stockflare Limited & Stockflare USA, Inc.
+    hero:
+      cta: "開始"
+      description: "投資不必複雜。使用Stockflare快速獲取關鍵資訊。"
+      title: "輕鬆選股"
+    hero_image_url: https://public.stockflare.com/assets/hodor_landing/introduction-background_zh.jpg
+    nav:
+      login: "登錄"
+      sign_up: "免費註冊"
+    register:
+      cta: "註冊Stockflare"
+      description: "如果你想獲得個性化服務請註冊。"
+      form:
+        email:
+          placeholder: "你的電子郵箱位址"
+        password:
+          placeholder: "想要的密碼"
+      skip: "跳過"
+      terms_1: "使用我們的網站時或點擊“註冊Stockflare”"
+      terms_2: "你同意我們的隱私政策和服務條款"
+      title: "免費加入。"
+    sectons:
+      link:
+        cta: "連接我的傭金"
+        cta_url: https://zh.stockflare.com/drivewealth
+        description: "安全連接你的傭金帳戶，把你的投資組合導入Stockflare。獲取我們對你當前投資的分析。"
+        title: "連接、流覽、購買"
+      picking:
+        cta: "見: “Alibaba Group” (阿里巴巴)"
+        cta_url: https://zh.stockflare.com/stock/baba.k
+        description: "在Stockflare，我們的演算法將大量的資料轉化為易於分析的形式。使用我們的工具，每個人都可以輕鬆選股。"
+        image_url: https://public.stockflare.com/assets/hodor_landing/cn-image-browser.png
+        title: "輕鬆選股"
+  login:
+    buttons:
+      forgot: "忘記密碼"
+    errors:
+      '401': 
+      '403': 
+      '409': 
+      '500': 
+      mfa:
+        '401': 
+        '500': 
+    flash:
+      success: "您現已用 %n 登入"
+    pageTitle: "登錄"
+  meta:
+    description: Stockflare可以幫助任何人選擇股票。投資不必很複雜。我們每天要按照數百項指標篩選全球的45,000多支股票。
+    keywords: "股票, stockflare, 投資"
+    og:
+      description: "超過45,000支全球股票的清晰分析。連接你的傭金帳戶以獲取個性化的觀察。"
+      title: Stockflare - 輕鬆選股
+    title: "輕鬆選股"
+  mobile:
+    about:
+      links:
+        about: "關於我們"
+        broker: "一個新的經紀帳戶？"
+        contact: "聯繫我們"
+        data: "我們的資料合作夥伴"
+        faq: "常見問題"
+        plus: " Stockflare Plus"
+        privacy: "隱私政策"
+        tos: "服務條款"
+    account:
+      breakdown:
+        basedOn: "基於%n可盈利的股票"
+        dividend:
+          balance:
+            negative: "平衡性差"
+            neutral: "需要改進"
+            positive: "平衡性好"
+          marketAverage: "平均%n"
+          paying: "支付紅利的公司"
+          title: "紅利收益"
+          weightedAverage: "加權平均值"
+        marketAverage: "市場平均"
+        performance:
+          investedAt: "投資於價格"
+          oneMonthGain: 1個月利潤
+          threeMonthGain: 3個月利潤
+          title: "表現"
+        title: "投資組合分析"
+        valuation:
+          forecastPe: "預測PE率"
+          marketPe: "%nPE率"
+          previousPe: "先前PE率"
+          title: "估價"
+        weightedAverage: "加權平均值"
+      concentration:
+        title: "專注"
+      rating:
+        quality:
+          high: "高品質"
+          low: "低品質"
+          medium: "中等品質"
+        quantity: "基於%n股票"
+        speculative:
+          notice: "你應該在高品質股票中增加投資。"
+          text: "你的投資組合中超過n%%是帶有投機性質的"
+        title: "評分"
+    alerts:
+      clearAll: 
+      empty:
+        text: "你正在觀察的股票中沒有提醒"
+        title: "今天沒有提醒"
+      noAlerts:
+        text: "你還沒有觀察任何股票。為什麼不建立一個觀察列表呢？"
+        title: "沒有提醒！"
+      push:
+        subscribe: "啟動Chrome提醒"
+        ubsubscribe: "停用Chrome提醒"
+      settings: "提醒設置"
+      slider:
+        btnLabel: "免費試用"
+        first:
+          description: "你不只需要價格提醒。獲取關於潛在交易狀況的提醒。當交易出現異常時，及時獲悉情況是最好的！"
+          title: "智能提醒"
+        second:
+          description: "連接你的經紀帳戶，我們會為你提供定期的投資健康檢並及在需要調整平衡時向你發送信號。"
+          title: "已連接的投資組合"
+        success:
+          btnLabel: "查看我的提醒"
+          paymentDetails: 
+          text: "你每月將支付5.95美元直至計畫取消。"
+          title: "快充成功！"
+        third:
+          description: "使用我們的通知服務可以高枕無憂，因為我們會替你觀察你的投資並在需要你做出重要決定時通知你。"
+          title: "通知"
+        title: "快充Stockflare"
+      subtitle: "以下是關於你正在觀察的股票的提醒"
+      title: "提醒"
+      trial:
+        extend:
+          extend: "擴展你的試用期以免錯失良機"
+          get: "獲取Stockflare Plus提醒"
+          left: "你的Stockflare Plus還剩%n天"
+          text: "每月只需5.95美元，可隨時取消"
+          upgrade: "升級"
+        unlock: "解鎖提醒"
+      unlock: "解鎖提醒"
+      unlockAll: "解鎖全部提醒"
+      upgrade: "升級"
+    common:
+      backToList: "返回列表"
+      cancel: "取消"
+      complete: "完成"
+      confirm: " 是"
+      delete:
+        confirmation: "你確定要刪除'%n'嗎？"
+      done: "已完成"
+      finish: "完成"
+      form:
+        email: "電子郵寄地址"
+        newPassword: "想要設定的密碼"
+        password: "密碼"
+      lastUpdated: "上次升級"
+      login:
+        createAccountText: "註冊並試用我們全部的資料與分析。你可以連接你當前的經紀帳戶並獲取關於投資的重要資訊。使用我們的提醒&通知，你將永遠不會錯過重要事件。所以，你還在等什麼呢？"
+        createAccountTitle: "至今還沒加入Stockflare？"
+      ok: Ok
+      reset: "重置"
+      search: "搜索"
+      setLocation: "設定位置"
+    connect:
+      connected:
+        homepageLabel: "轉到主頁"
+        portfolioLabel: "轉到投資組合"
+        subtitle: "在下面，你可以選擇去向"
+        title: "交易已啟動"
+      connecting:
+        status: "連接中"
+        subtitle: "這是你的經紀人詳情，這樣我們就可以提取你的投資組合"
+        title: "登錄中"
+      form:
+        connectBtn: "登錄至%n"
+        username: "用戶名/電子郵件"
+      getAccount: "獲取一個帳戶"
+      info: "點擊'登錄'表示你同意我們的服務條款"
+      noAccount: "我沒有經紀人"
+    dashboard:
+      titles:
+        alerts: Plus提醒
+        brokers: "我的傭金"
+        explore: "按主題流覽"
+        freeAlerts: "提醒"
+        moversAndShakers: "風雲榜"
+        watchlists: "我的觀察列表"
+      topBox:
+        accounts:
+          gain: "收益帳戶"
+          worth: "價值帳戶"
+        watchlists:
+          gain: "收益觀察列表"
+          worth: "價值觀察列表"
+        yourMoney: "你的錢"
+    disclaimer:
+      links:
+        barchart: Barchart
+        iex: IEX Trading
+        pages: Stockflare Limited
+        reuters: Thomson Reuters
+        tos: "服務條款"
+        tradeit: Trading Ticket Inc
+      partOne: " '%pagesLink是一個基於“現狀” 和“可用”的資訊服務。我們不提供建議，也不作出評價。我們是一個為自我導向投資者服務的搜索工具。請閱讀我們的%tosLink.'"
+      partTwo: "由%reutersLink提供的收盤價格資料、基本因素和估價。 提供BATS、AMEX、NYSE、NASDAQ延時價格資料並保證至少10分鐘延時。即時及格由%iexLink.%barchartLink免費提供 美國經紀公司嵌入由%tradeitLink提供。"
+    drivewealth:
+      buttons:
+        account: "已經有了一個帳戶？"
+        first: "每筆交易 2.99 美元"
+        second: "支付 0.01 美元"
+      disclaimer: " 'DriveWealth LLC是在美國的一家註冊交易仲介，為FINRA和SIPC會員。請訪問它們的網站以獲取更多資訊。非美國公民必須填寫美國國內稅收服務W-8BEN表格。這裡需向你的經紀帳戶收取5美元的費用。所有Stockflare用戶都可以申請一個DriveWealth Classic帳戶。只有Stockflare Plus訂閱者可以獲取每筆股票交易0.01美元的價格。請留意SEC和TAF的額外收費。詳情參見DriveWealth完整費率表。'"
+      featurrs:
+        anyone:
+          text: "非美國公民也可以申請。DriveWealth LLC在50多個國家都有客戶。"
+          title: "任何人可以申請"
+        decide:
+          text: "無需買入大量股份，花費50美元來購買單價為20美元的股票即可獲得2.5股份。"
+          title: "由你決定"
+        leverage:
+          text: DriveWealth LLC也提供保證金帳戶，與聯邦基金利率相同，均為4%。
+          title: "喜歡杠杆？"
+        minimums:
+          text: " DriveWealth的服務是面向所有投資者的，沒有最低期初餘額限制。"
+          title: "沒有最低限制"
+        simple:
+          text: DriveWealth LLC提供一種關注美國最優的3000支股票的簡單經紀帳戶
+          title: "一種簡單的服務"
+        stockflare:
+          text: "對了，不要忘記你可以把DriveWealth帳戶連接至Stockflare。"
+          title: "對Stockflare友好"
+      notLoggedIn:
+        button: "讓我們開始使用"
+      title: "開始在美國投資"
+      website:
+        label: "網站"
+        link: http://help.drivewealth.com/customer/en/portal/articles/1928079-drivewealth-fee-schedule
+      whyNotNow: "為什麼不立刻連接呢？"
+    explore:
+      empty: "抱歉，沒有結果"
+      subtitle: "在不同的/便利的籃子裡探索股票"
+      title: "探索股票"
+    forgotPassword:
+      backButton: "返回/主頁"
+      button: "設置新密碼"
+      confirmation: "請檢查你已註冊的電子郵寄地址"
+      sent: "密碼已發送"
+    homepage:
+      createAccount: "創建免費帳戶"
+      desktopVersionLabel: "轉換至桌上出版"
+      logged:
+        subtitle: "現在你可以流覽提醒和觀察列表"
+        title: "歡迎回來"
+      market: "這裡是我們對市場上最大的3支股票的分析"
+      portfolios: "投資組合"
+      settings: "設置"
+      subtitle: "使用我們獨一無二的評分功能便捷地選擇股票"
+      title: "便捷地選擇股票"
+      viewMore:
+        stocks: "查看更多股票"
+        themes: "查看更多主題"
+    paywall:
+      listInfo: "獲取Stockflare Plus以進入完整列表"
+      modal:
+        buy: "購買高級產品"
+        close: "關閉"
+        logged:
+          buy: "告訴我更多！"
+          text: "每月僅需5.95美元就可進入Stockflare Plus？"
+        notLogged:
+          buy: "免費試用"
+          text: "註冊以獲取免費試用Stockflare Plus14天的資格。無需銀行卡！"
+        text: "該功能僅面向高級產品使用者"
+      selectSuffix: "高級"
+    peers:
+      back: "返回%n"
+      competitors: ' "%n v 按條件篩選的前3名"'
+      footer: "根據你給出的條件和市場價值篩選的替代品。"
+      sortBy:
+        back: "返回%n"
+        cheapest: "最便宜"
+        dividend: "最高紅利"
+        growth: "最高增長"
+        label: "篩選按照: "
+        lowest_price: "最低價格"
+        market_value: "市場價格"
+        near_fifty_two_week_low: "近52周低"
+        star_rating: "星級評分"
+        stockPeer:
+          forecastPe: "預測PE"
+        upside: "最佳上行價格目標"
+      stockPeer:
+        dividend: " 收益預測"
+        growth: " 長期增長"
+        lowest_price: " 最新價格"
+        near_fifty_two_week_low: " 52 週低價"
+        upside: " 上攻目標價"
+      title: "正在尋找一個替代品？"
+    pickStocks:
+      actions:
+        clear: "清空所有篩檢程式"
+        filter: "應用&關閉"
+        find: "尋找股票"
+        save: "保存篩檢程式"
+      filters:
+        country:
+          filterPlaceholder: "類型 國家名稱…"
+          label: "國家"
+        investingStyle:
+          investingStyle:
+            label: "投資風格"
+            values:
+              good: "價值好"
+              growth: "增長高"
+              quality: "品質高"
+          label: "投資風格"
+          priceDirection:
+            label: "價格方向"
+            values:
+              highWeek: "近52周高"
+              lowWeek: "近52周低"
+              negativeMomentum: "消極勢頭"
+              positiveMomentum: "積極勢頭"
+          sentiment:
+            label: "意見"
+            values:
+              hated: "華爾街反對"
+              loved: "華爾街支持"
+              unknown: "華爾街未知"
+        metrics:
+          label: "商業指標"
+          values:
+            cash: "由現金和投資"
+            dividends: "僅限支付紅利"
+            growing: "增長中"
+            highGrowth: "僅限高增長"
+            large: "僅限大公司"
+            profitable: "正在轉為盈利狀態"
+            profitableToday: "今天可盈利"
+            small: "僅限小公司"
+        price:
+          label: "價格"
+          values:
+            100to250: "$100 - $250"
+            10to25: "$10 - $25"
+            1to10: "$1 - $10"
+            250to1000: "$250 - $1000"
+            25to100: "$25 - $100"
+            50to100: "$50 - $100"
+            over100: Over $100
+            over1000: Over $1000
+            under1: Under $1
+            under50: Under $50
+        sector:
+          filterPlaceholder: "類型 行業名稱…"
+          label: "行業"
+        starRating:
+          label: Stockflare星級評分
+          values:
+            cheaper: "比競爭對手更便宜"
+            dividends: "支付紅利"
+            growing: "比競爭對手增長更快"
+            profitable: "可盈利的公司"
+            upside: "華爾街專家贊成"
+        title: "篩檢程式"
+        valuation:
+          label: "估價"
+          values:
+            enterprise: "少於1次銷售"
+            high: "紅利收益高於4%"
+            low: PE率低於10倍
+            priceToBook: "交易低於帳面價值"
+            profit: "少於7倍營業收益"
+      selectPlaceholder: "選擇…"
+      summary:
+        subtitle: "已找到%n結果"
+        title: "你的結果"
+      title: "尋找股票"
+    portfolio:
+      connected: "連接"
+      count:
+        many: ''
+        one: 1家公司
+        other: "%n公司"
+      'count:': "%n公司"
+      pendingTrades: "待交易"
+      reConnect:
+        text: "出於安全考慮，你的帳戶每30天就會執行一次"
+        title: "你的帳戶需要重新認證"
+      reconnect: "重連"
+      refresh: 
+      table:
+        actions: "活動"
+        name: "名字"
+        starRating: "星級評分"
+    portfolios:
+      empty:
+        text: "你還沒有連接一個經紀帳戶至Stockflare。為什麼不呢？"
+        title: "未連接經紀人"
+      new: "新增經紀商"
+      subtitle: "流覽你的帳戶"
+      title: "投資組合"
+      update:
+        button: "獲取投資組合更新"
+        flash: "我們正在分析您的投資組合和監視清單。我們會將分析直接發到您的收件箱。"
+    register:
+      ad:
+        list:
+          accounts: "連接你的經紀帳戶"
+          health: "為你的投資獲取定期健康檢查"
+          personalized: "獲取個性化服務"
+          premium: "免費試用我們的高級工具"
+          watchlists: "保存無限量的觀察列表"
+        title: "為什麼要註冊？"
+      errors:
+        '400': 
+        '409': 
+        '500': 
+        error: 
+      login: "已經有了一個帳戶？"
+      modal:
+        register: "註冊"
+        terms: "條款"
+        text: "非常感謝您測試 Stockflare。請免費註冊，繼續使用我們的服務。我們期待長期為您服務！"
+      title: "註冊"
+    registerSuccess:
+      button: "立即開始使用"
+      countdown: "您將於 %n 秒後被重新導向轉接"
+      subtitle: "別忘了建立一個關注清單或關聯您的經紀帳戶！"
+      title: "感謝加入"
+    search:
+      noResults: "抱歉，我們找不到任何內容"
+      noResultsLink: "試一試"
+      subtitle: "我們在體驗一次探索"
+      title: "探索超過50.000支股票"
+    settings:
+      accountDetails:
+        currentPassword: "當前密碼"
+        email: "電子郵件"
+        heading: "受保護的詳情"
+        newPassword: "新密碼"
+      alertSettings:
+        cancelSubscription: "取消訂閱"
+        cancelled: "訂閱已取消"
+        dropdowns:
+          subscribe: 
+          subscribed: 
+          unsubscribe: 
+          unsubscribed: 
+        end: "結束 (%n)"
+        heading: "提醒設置"
+        offNoticiations: "暫停電子郵件通知"
+        onNoticiations: "開始電子郵件通知"
+        paymentDetails: "升級支付詳情"
+        subscription: "訂閱"
+        trial: "試用（還剩%n天）"
+      logoutBtn: "退出"
+      saveBtn: "應用更改"
+      subscribePage: "請參閱訂閱頁面"
+      subtitle: "在此更改你的Stockflare個人設置"
+      title: "我的設置"
+      userDetails:
+        country: "位置"
+        heading: "我的詳情"
+        language: "語言"
+        name: "全名"
+    stock:
+      alerts:
+        alertsWaiting: "%n Plus提醒等待中"
+        currentAlerts: "目前提醒"
+        header: "提醒"
+        noAlerts:
+          firstLine: "%n沒有提醒"
+          secondLine: "諸事順利！"
+        plusAlerts: "附加提醒"
+        subscribeAlerts: "僅需5.95美元即可訂購"
+      bshare:
+        text: "目前我們僅針對A股&主要上市進行完整分析。"
+        title: "%n的關鍵指標？"
+      chart:
+        buttons:
+          fiveYears: 5年
+          oneDay: 1天
+          oneMonth: 1個月
+          oneYear: 1年
+          tenYears: 10年
+          threeMonths: 3個月
+          twoYears: 2年
+        oneDayEmpty: 
+        priceLabel: "價格"
+      description: "股票描述"
+      etf:
+        text: "檢驗關鍵指標。我們針對主要股票進行分析。"
+        title: "關鍵指標之"
+        visit: "訪問"
+      keyStats:
+        title: "關鍵統計"
+      latest: "最新結果"
+      million: "百萬"
+      peers: "尋找替代品"
+      share:
+        label: "通過%n分享"
+        title: "分享"
+      starRating:
+        cheap:
+          graph:
+            first: "預測PE"
+            second: "競爭對手"
+          label: PE率
+          na: "無PE率"
+          summary: "比競爭對手更便宜"
+          text: "%nx PE vs. 競爭對手%nx的PE"
+          title:
+            negative: "貴"
+            positive: "便宜"
+          values:
+            negative: "貴"
+            positive: "便宜"
+        dividends:
+          graph:
+            first:
+              forecast: "預測DPS"
+              historic: "歷史DPS"
+            info: "沒有星級。DPS>EPS"
+            second: "收益"
+          label: "支付紅利？"
+          na: "無可用紅利預測"
+          negative:
+            text: "不支付紅利"
+          positive:
+            dividend: "紅利"
+            text: "紅利 %n。%n%收益"
+            yieldOf: "%n%收益"
+          summary: "支付紅利"
+          title: "紅利？"
+          values:
+            negative: " 否"
+            positive: "是"
+        expert:
+          downside: "%n%下行價格目標"
+          graph:
+            first: "目標價格"
+            info: "華爾街說%n"
+            second:
+              downside: "下行"
+              upside: "上行"
+          label: "華爾街目標"
+          na: "無專家研究"
+          noChanges: "與價格目標無差別"
+          summary: "上行價格目標"
+          title: "專家觀點"
+          upside: "%n%上行價格目標"
+          values:
+            negative: "下行"
+            positive: "上行"
+        profitable:
+          graph:
+            first: "歷史EPS"
+            second: "預測EPS"
+          label: "可盈利？"
+          na: "無可用預測收益"
+          summary: "可盈利"
+          text: "預測EPS"
+          title:
+            negative: "不盈利"
+            positive: "盈利"
+          values:
+            negative: " 否"
+            positive: " 是"
+        stronger:
+          graph:
+            first: LT增長
+            info: ST增長消極
+            second: "競爭對手"
+          label: "增長"
+          na: "無增長預測"
+          summary: "強勢"
+          text: "%n%增長 vs. 競爭對手%n%"
+          title:
+            negative: "更弱"
+            positive: "更強"
+          values:
+            negative: "弱勢"
+            positive: "強勢"
+        title: "星級評分"
+      statistics:
+        enterpriseValue: "企業價值"
+        forecastSales: "預測銷售"
+        headers:
+          cashDebt: "現金/債務水平"
+          sales: "銷售預測"
+          valuation: "估值"
+        lastTwelveMonths: "過去12個月"
+        marketValue: "市場價值"
+        netCash: "淨現金"
+        netCashText: "淨現金與市場價值%n相同"
+        netDebt: "淨債務"
+        netDebtText: "淨債務水準是營業利潤%n"
+        netDebtTextNA: "淨債務水準比營業利潤為N/A"
+        netProfitForecast: "淨利潤預測"
+        priceToBookValue: "價格比帳面價值"
+        priceToOperatingProfit: "價格比營業利潤"
+        priceToSales: "價格比銷售"
+        returnOnEquity: "股本回報率"
+        title: "詳細統計"
+      technicalAnalysis:
+        charts:
+          type:
+            bollinger_bands: 
+            bollinger_bands': 
+            macd: 
+            rsi: 
+            sma: 
+          values:
+            histogram: 
+            lower: 
+            macd: 
+            middle: 
+            price: 
+            rsi: 
+            signal: 
+            sma200: 
+            sma50: 
+            upper: 
+          yLine:
+            overbought: 
+            oversold: 
+        gauge:
+          average:
+            subtitle: 
+            title: 
+          enterprise:
+            subtitle: 
+            title: 
+          heading: 
+          pe:
+            subtitle: 
+            title: 
+          price:
+            subtitle: 
+            title: 
+        noData: 
+      topBox:
+        actual: "實際變化"
+        percentage: "百分比變化"
+        price: "股價"
+      tradeBtn:
+        notAvailable: "抱歉，我們當前的合作夥伴僅提供美國與印度的股票資訊"
+        trade: "交易"
+      visit: "訪問"
+      watchlistBtn:
+        unwatch: "取消觀察"
+        watch: "觀察"
+      website: "網站"
+    subscribe:
+      action: "是的，我現在就要註冊！"
+      disclaimer: DriveWealth每筆股票交易收取0.01美元的超低折扣面向Stockflare Plus所有訂購者。不面向試用14天的用戶。非美國公民許填寫W8-BEN表格並支付5美元管理費來開戶。每股0.01美元的費用是所有SEC和交易費之前的價格。在這裡%website查看更多詳情。
+      invite: "邀請朋友以獲得1個月免費試用"
+      monthly: "每月"
+      premium: "每月5.95美元"
+      refer: "免費？邀請朋友吧！"
+      sections:
+        ads:
+          text: "沒有任何廣告打擾，你可以專心做出更好的投資決定。"
+          title: "沒有廣告"
+        alerts:
+          text: "獲取關於你的股票、投資組合以及新觀點的關鍵通知"
+          title: "高級提醒"
+        data:
+          text: "通往獨特的探索分類與專有資料"
+          title: "高級數據"
+        personalisation:
+          text: "享受更加個性化的體驗，節省寶貴的時間"
+          title: "更加個性化"
+        tools:
+          text: "通往我們整套的表格工具、股票篩選器和投資組合健康度檢查"
+          title: "獨特的工具"
+        trading:
+          text: "從我們的合作夥伴DriveWealth處獲取超低折扣價格作為加入Stockflare Plus的獎勵"
+          title: "每股交易0.01*"
+      title: "訂購"
+      trailLeft: " 試用期還剩%n天"
+      website:
+        label: "網站"
+        link: http://help.drivewealth.com/customer/en/portal/articles/1928079-drivewealth-fee-schedule
+    trade:
+      advanced: "高級設置"
+      brokeraage: "經紀人"
+      brokerage: "經紀人"
+      buy: "購買"
+      buyLimit: "限價"
+      change: "更改"
+      choose: "選擇經紀人"
+      estimatedCost: "估計成本"
+      estimatedFees: "估計費用"
+      estimatedReturn: "估計收益"
+      expiration:
+        day: "當日有效"
+        gtc: "有效直至取消"
+        label: "時間"
+      fractional:
+        buyTitle: "美元總計？"
+        dolarBased: "轉回基於美元的交易"
+        perShareLabel: "轉換為每股購買"
+        sellAll: "全部售出"
+        sellTitle: "你擁有"
+      placeOrder: "下訂單"
+      preview: "預覽訂單"
+      quantity: "數量"
+      reuthenticate: "重新認證"
+      reuthenticateTest: "你需要重新認證你的交易帳戶以繼續交易"
+      sell: "售出"
+      sellLimit: "限價"
+      simple: "簡單設置"
+      success:
+        portfolioBtn: "轉至投資組合"
+        stockBtn: "返回%n"
+        subtitle: "下面你可以選擇去向"
+        title: "交易已執行"
+      ticker: "報價機"
+      trade: "交易"
+      type:
+        label: "訂單類型"
+        limit: "限價單"
+        market: "市價單"
+      warning:
+        quantity: "數量不能高於%n"
+    unsubscribe:
+      button: "繼續"
+      subtitle: "很遺憾看到您離開。如果您對我們有任何意見反應，請給我們留言。"
+      title: "訂閱已取消"
+    watchlist:
+      addShares: "添加股份"
+      addSharesIn: "添加股份至"
+      empty: "還沒有觀察任何股票？為什麼不“探索”一些股票並將你最喜歡的添加到觀察列表中呢？"
+      emptyTitle: "探索股票"
+      form:
+        amount: "總計"
+        price: "價格"
+      inputLabel: "觀察列表名稱"
+      myWatchlist: "我的觀察列表"
+      newWatchlist: "創建觀察列表"
+      selectWatchlist: "選擇觀察列表"
+      shares:
+        multi: "股份"
+        single: "股份"
+      subtitle: "你的觀察列表按照市場價值排序"
+      updateShares: "升級股份"
+    watchlists:
+      new: "新觀察列表"
+  notifications:
+    cash:
+      negative: "%short_name淨現金收入大幅下降至股票價格的%net_cash_to_share_price。"
+      positive: "%short_name淨現金收入大幅增長至股票價格的%net_cash_to_share_price。"
+    consolidation:
+      negative: "%split_date，%short_name曾出現股票合併，合併率為%ratio。今日價格為%price，對比%timestamp的價格%price_yesterday。"
+    debt_danger:
+      negative: "%short_name淨負債與營運比率已上升至%net_debt_to_operating_profit。"
+      positive: "%short_name淨負債與營運比率已下降至%net_debt_to_operating_profit。"
+    debt_net:
+      negative: "%short_name已被移至淨負債狀態，曾有現金結餘淨額。"
+      positive: "%short_name現有淨現金為股價的%net_cash_to_share_price，曾處於淨負債狀態。"
+    dps_growth:
+      negative: "%short_name每股紅利預計將下降。"
+      positive: "%short_name每股紅利預計將增長。"
+    dps_trend:
+      negative: "預計%short_name紅利已下降至每股%forecast_dps，上周為%forecast_dps_one_week_ago。"
+      positive: "預計%short_name紅利已上升至每股%forecast_dps，上周為%forecast_dps_one_week_ago。"
+    dps_turn:
+      negative: "預測%short_name不會支付紅利。過去預測每股紅利為%forecast_dps_yesterday。"
+      positive: "預測%short_name將支付紅利為%forecast_dps。過去預測無紅利。"
+    dps_turns:
+      negative: "預測%short_name不會支付紅利。過去預測每股紅利為%forecast_dps_yesterday。"
+      positive: "預測%short_name將支付紅利為%forecast_dps。過去預測無紅利。"
+    dps_warning:
+      negative: "%short_name預測每股收益%forecast_eps不再能充分覆蓋預期每股紅利%forecast_dps。"
+      positive: "%short_name現預期收益能超過紅利。曾預測收益不再能充分覆蓋所需支付紅利。"
+    eps_growth:
+      negative: "%short_name收益現預計將下降。"
+      positive: "%short_name收益現預計將增長。"
+    eps_price_one_month:
+      positive: "%short_name的預測收益在過去一月內變動%forecast_eps_change_one_month，但價格為%price_change_one_month。其PE率現為%forecast_pe earnings。"
+    eps_price_one_week:
+      positive: "%short_name的預測收益在過去一周內變動%forecast_eps_change_one_week，但價格為%price_change_one_week。其PE率現為%forecast_pe earnings。"
+    eps_trend:
+      negative: "%short_name預測EPS已從上周%forecast_eps_one_week_ago下降至%forecast_eps。"
+      positive: "%short_name預測EPS已從上周%forecast_eps_one_week_ago增長至%forecast_eps。"
+    eps_turn:
+      negative: "%short_name預測EPS已被降級至虧損%forecast_eps。曾預測為盈利%forecast_eps_yesterday。"
+      positive: "%short_name預測EPS已被升級至盈利%forecast_eps。曾預測為虧損%forecast_eps_yesterday。"
+    eps_turns:
+      negative: "%short_name預測EPS已被降級至虧損%forecast_eps。曾預測為盈利%forecast_eps_yesterday。"
+      positive: "%short_name預測EPS已被升級至盈利%forecast_eps。曾預測為虧損%forecast_eps_yesterday。"
+    gain_trend:
+      negative: "%short_name長期收益預測與一周前相比大幅下降，從%long_term_gain_one_week_ago轉至%long_term_gain。"
+      positive: "%short_name長期收益預測與一周前相比大幅增長，從%long_term_gain_one_week_ago轉至%long_term_gain。"
+    gain_turn:
+      negative: "%short_name長期收益預測已從%timestamp轉向消極，從%long_term_gain_yesterday轉至%long_term_gain。"
+      positive: "%short_name長期收益預測已從%timestamp轉向積極，從%long_term_gain_yesterday轉至%long_term_gain。"
+    gain_turns:
+      negative: "%short_name長期收益預測從昨天轉向消極，從%long_term_gain_yesterday轉至%long_term_gain。"
+      positive: "%short_name長期收益預測從昨天轉向積極，從%long_term_gain_yesterday轉至%long_term_gain。"
+    growth_trend:
+      negative: "%short_name長期增長預測與一周前相比大幅下降，從%long_term_growth_one_week_ago轉至%long_term_growth。"
+      positive: "%short_name長期增長預測與一周前相比大幅上升，從%long_term_growth_one_week_ago轉至%long_term_growth。"
+    growth_turn:
+      negative: "%short_name長期增長預測已從%timestamp轉向消極，從%long_term_growth_yesterday轉至%long_term_growth。"
+      positive: "%short_name長期增長預測已從%timestamp轉向積極，從%long_term_growth_yesterday轉至%long_term_growth。"
+    growth_turns:
+      negative: "%short_name長期增長預測已從昨天轉向消極，從昨天的%long_term_growth_yesterday轉至%long_term_growth。"
+      positive: "%short_name長期增長預測已從昨天轉向積極，從昨天的%long_term_growth_yesterday轉至%long_term_growth。"
+    pe:
+      negative: "%short_name今天價格更高，為%forecast_pe earnings，高於一周前收益%forecast_pe_one_week_ago。"
+      positive: "%short_name今天價格更低，為%forecast_pe earnings，低於一周前收益%forecast_pe_one_week_ago。"
+    portfolio_concentration:
+      positive:
+        concentrated: "你正專注於%concentrated。"
+        missing: "你的投資組合中缺少%missing_sectors。"
+        sectors: "今天你的投資跨越%num_of_sectors個行業。"
+      title: "多樣化"
+    portfolio_consideration:
+      negative: "放棄%names之類的投機股票，考慮其他股票吧。"
+    portfolio_discover:
+      negative: "在%names中尋找新亮點吧。"
+    portfolio_dividends:
+      negative: "你所持股票中的%percent_of_paying_stocks預測可支付紅利，預測收益為%forecast_yield。該數值低於%local_name預測收益%local_yield。"
+      positive: "你所持股票中的%percent_of_paying_stocks預測可支付紅利，預測收益為%forecast_yield。該數值高於%local_name預測收益%local_yield。"
+      title: "紅利收益"
+    portfolio_idea:
+      negative: "在%names中找尋新想法。"
+    portfolio_profitability:
+      negative: "%num_of_stocks中的 %num_of_profitable_stocks股票可盈利，平均PE率為 %average_pe。該數值高於%local_name預計PE%local_pe。"
+      positive: "%num_of_stocks中的 %num_of_profitable_stocks股票可盈利，平均PE率為 %average_pe。該數值低於%local_name預計PE%local_pe。"
+      title: "投資組合估價"
+    portfolio_rating:
+      positive:
+        average: "你的投資組合中共有%stocks支股票，平均評級為%rating星。"
+        speculative: "我們對你的投資組合中%speculative做投機評價，包括：%names。"
+      title: Stockflare星級評分
+    portfolio_revisit:
+      negative: "重新查看%names股票分析。"
+    portfolio_worth:
+      negative: "今天你的投資組合價值%value，與你的最初投資相比下降%gain，淨虧損為%change。"
+      positive: "今天你的投資組合價值%value，與你的最初投資相比增長%gain，淨收益為%change。"
+      title: "你的投資組合表現"
+    price_after_market:
+      negative: "%short_name收盤後交易價下降%price_change。"
+      positive: "%short_name收盤後交易價上升%price_change。"
+    price_eps_one_month:
+      positive: "%short_name價格為%price_change_one_month，但預測收入在上月變動為%forecast_eps_change_one_month。"
+    price_eps_one_week:
+      positive: "%short_name價格為%price_change_one_week，但預測收入在上周變動%forecast_eps_change_one_week。"
+    price_intraday:
+      negative: "%short_name當天下降%price_change。"
+      positive: "%short_name當天上升%price_change。"
+    price_large_cap:
+      negative: "%short_name於%timestamp下降%price_change。"
+      positive: "%short_name於%timestamp上升%price_change。"
+    price_largecap:
+      negative: "%short_name昨天價格下降%price_change。"
+      positive: "%short_name昨天價格上升%price_change。"
+    price_peer:
+      negative: "%short_name同行業業務%peer_short_name於%timestamp下降%peer_price_change。"
+      positive: "%short_name同行業業務%peer_short_name於%timestamp上升%peer_price_change。"
+    price_pre_market:
+      negative: "%short_name上市前價格下降%price_change。"
+      positive: "%short_name上市前價格上升%price_change。"
+    price_small_cap:
+      negative: "%short_name於%timestamp價格下降%price_change。"
+      positive: "%short_name於%timestamp價格上升%price_change。"
+    price_smallcap:
+      negative: "%short_name昨天下降%price_change。"
+      positive: "%short_name昨天上升%price_change。"
+    recommendation:
+      negative: "對%short_name的推薦已降級至%recommendation_text。"
+      positive: "對%short_name的推薦已升級至%recommendation_text。"
+    sales_trend:
+      negative: "%short_name預期銷售本年度將不再增長。"
+      positive: "%short_name預期銷售本年度將繼續增長。"
+    split:
+      positive: "%short_name於%split_date已發生股票分割，分割率為%ratio。今日價格為%price，而%timestamp的價格為%price_yesterday on %timestamp。"
+    stars:
+      negative: "%short_name已丟失一顆星，現在為%rating星股票。"
+      positive: "%short_name已獲得一顆星，現在為%rating星股票。"
+    stars_peers:
+      negative: "%short_name星級評分已降至%rating。以下是4星+競爭對手列表：%rics。"
+    target_trend:
+      negative: "%short_name目標價格已跌至%target_price，上周價格為%target_price_one_week_ago。"
+      positive: "%short_name目標價格已漲至%target_price，上周價格為%target_price_one_week_ago。"
+    target_turn:
+      negative: "%short_name現在價格為%price，高於目標價格%target_price。"
+      positive: "%short_name目標價格為%target_price，高於最新價格%price。"
+    target_turns:
+      negative: "%short_name現在價格為%price，高於目標價格%target_price。"
+      positive: "%short_name目標價格為%target_price，高於最新價格%price。"
+    technical_bollinger_bands_signal:
+      negative: 
+      positive: 
+    technical_macd_signal:
+      negative: 
+      positive: 
+    technical_rsi_signal:
+      negative: 
+      positive: 
+    technical_sma_signal:
+      negative: 
+      positive: 
+    volume_intraday:
+      negative: "%short_name今日交投暢旺，價格下降%price_change。"
+      positive: "%short_name今日交投暢旺，價格上升%price_change。"
+    volume_ten_day:
+      negative: "%short_name於%timestamp因交投暢旺價格下降%price_change。"
+      positive: "%short_name於%timestamp因交投暢旺價格上升%price_change。"
+  payments:
+    email:
+      customer_source_created:
+        body: "你的支付詳情已更改為尾號為%ending的%card_type卡。如果你正在免費試用，你的卡在試用結束前不會扣費。你可以在設置頁查看你的訂購資訊。"
+        link: "查看你的帳戶設置"
+        subject: "你的支付詳情已經更新"
+      gift_drive_wealth:
+        body: "感謝試用我們的服務。我們已經為你的帳戶提供了1個月的Stockflare Plus免費訂閱。如果你是新用戶，你最多還能獲取14天免費試用。如果你還沒有結束，則可以將你的DriveWealth帳戶連接至Stockflare，獲取我們對你所持股票的提醒。"
+        link: "連接你的帳戶"
+        subject: "你的DriveWealth禮物到了！"
+      invoice_payment_failed:
+        body: "你的Stockflare Plus訂閱支付失敗。我們將在幾天後重試，在此期間你的訂閱仍然有效。你可以在設置頁更新支付詳情。"
+        link: "查看你的帳戶設置"
+        subject: "你的Stockflare Plus支付失敗"
+      payment_succeeded:
+        body: "我們已經收到你的Stockflare Plus訂閱支付。感謝使用我們的服務。支付金額為每月$%amount美元。你可以在設置頁查看訂閱詳情。"
+        link: "查看你的帳戶設置"
+        subject: Stockflare Plus支付收據
+      refer:
+        body: "感謝你將Stockflare推薦給朋友們。他們當中的一個已經註冊，我們已經為你的帳戶提供了1個月的Stockflare Plus免費訂閱。"
+        link: "查看你的提醒"
+        subject: "你的一個朋友已經註冊了Stockflare"
+      subscription_has_ended:
+        body: "你的Stockflare Plus訂閱已經結束。使用下面的連接確保你可以一直獲取我們為你所有股票提供的智慧提醒。"
+        link: "訂閱Stockflare Plus"
+        subject: "你的Stockflare Plus訂閱已經結束。"
+      trial_will_end:
+        body: "萬分感謝您測試 Stockflare。我們對您挑選股票有幫助嗎？"
+        body_four: "再次感謝。"
+        body_three: "如果沒有興趣，不用擔心，無需採取任何行動，免費試用將在 %days 天後結束。"
+        body_two: "何不查看 Stocklare Plus 的所有功能甚至訂閱？"
+        link: "這就是您將愛上 Stockflare Plus 的原因 :)"
+        link_survey: "請在此處向我們提供意見反應！"
+        subject: "您喜歡 Stockflare 嗎？"
+  plans:
+    buttons:
+      navigation:
+        next: 
+        prev: 
+      switch:
+        negative: 
+        positive: 
+    inputting:
+      back: 
+      button: 
+      text: 
+      title: 
+    intro:
+      new:
+        button: 
+        text: 
+      return:
+        button: 
+        text: 
+      title: 
+    login:
+      button: 
+      text: 
+      title: 
+    management:
+      back: 
+      not_logged_in: 
+      question: 
+      text: 
+      thanks:
+        negative: 
+        positive: 
+      title: 
+    progress:
+      day:
+        five: 
+        ten: 
+        today: 
+      split:
+        goal: 
+        pension: 
+        safety: 
+      text: 
+      title: 
+    reminder:
+      button: 
+      not_logged_in: 
+      switched_off: 
+      switched_on: 
+      text: 
+      title: 
+    risk:
+      bar:
+        first: 
+        second:
+          less: 
+          more: 
+          same: 
+      input:
+        first: 
+        second: 
+      text: 
+      title: 
+    section_four: 
+    section_one: 
+    section_three: 
+    section_two: 
+    stars_calculation: 
+    stars_five:
+      debts:
+        negative: 
+        positive: 
+      first:
+        negative:
+          first: 
+          second: 
+          third: 
+          three: 
+        positive: 
+      goals:
+        negative:
+          first: 
+          second: 
+        positive: 
+      retirement:
+        home:
+          negative: 
+          positive: 
+        rent:
+          negative: 
+          positive: 
+      safety:
+        negative: 
+        positive: 
+      title:
+        debts:
+          negative: 
+          positive: 
+        first:
+          negative:
+            three: 
+          positive: 
+        goals:
+          negative: 
+          positive: 
+        plural: 
+        retirement:
+          home:
+            negative: 
+            positive: 
+          rent:
+            negative: 
+            positive: 
+        safety:
+          negative: 
+          positive: 
+        singular: 
+    stars_four:
+      expenditure:
+        number: 
+        text: 
+      ratio:
+        number: 
+        text: 
+      text: 
+      title: 
+      years:
+        number: 
+        text: 
+    stars_one:
+      debts:
+        negative: 
+        positive: 
+      insurance:
+        negative: 
+        positive: 
+      taxes:
+        negative: 
+        positive: 
+      text: 
+      title: 
+    stars_three:
+      percentage: 
+      text:
+        negative: 
+        positive: 
+      title: 
+      years:
+        output: 
+        text: 
+    stars_two:
+      months: 
+      saved: 
+      target: 
+      text:
+        negative: 
+        positive: 
+      title: 
+    step_four:
+      page_one:
+        current: 
+        error: 
+        future: 
+        input:
+          current:
+            firstPart: 
+            secondPart: 
+          future:
+            firstPart: 
+            secondPart: 
+        output: 
+        text: 
+        title: 
+      page_two:
+        home: 
+        taxes: 
+        text: 
+        title: 
+    step_one:
+      page_one:
+        text: 
+        title: 
+      page_two:
+        error: 
+        error_retired: 
+        input:
+          age: 
+          life: 
+          retire: 
+        "input\x01age": 
+        "input\x01life": 
+        "input\x01retire": 
+        text: 
+        title: 
+    step_three:
+      page_one:
+        error:
+          negative_values: 
+          savings: 
+        input:
+          safety:
+            firstPart: 
+            secondPart: 
+          savings: 
+        text: 
+        title: 
+      page_three:
+        error: 
+        input:
+          goal:
+            firstPart: 
+            secondPart: 
+          target:
+            firstPart: 
+            secondPart: 
+        risk: 
+        text: 
+        title: 
+      page_two:
+        input:
+          months:
+            firstPart: 
+            secondPart: 
+        output:
+          target: 
+        text: 
+        title: 
+    step_two:
+      page_one:
+        error: 
+        input:
+          expenditure: 
+          saving: 
+        output:
+          ratio: 
+        text: 
+        title: 
+        warning: 
+      page_two:
+        input:
+          debts: 
+          insurance: 
+        text: 
+        title: 
+    summary:
+      basics:
+        achieving:
+          negative: 
+          positive: 
+        currently:
+          has_insurance: 
+          no_debts: 
+          none: 
+          tax_efficient: 
+        target:
+          has_debts: 
+          no_insurance: 
+          no_tax_efficient: 
+          none: 
+      goals:
+        achieving: 
+      retirement:
+        achieving: 
+      safety:
+        achieving: 
+      table:
+        column:
+          first: 
+          second: 
+          three: 
+        row:
+          first: 
+          four: 
+          second: 
+          three: 
+      title: 
+    title: 
+    todos:
+      back: 
+      button: 
+      text: 
+      title: 
+    todos_list:
+      age: 
+      current: 
+      debts: 
+      error: 
+      future: 
+      goals:
+        high: 
+        low: 
+      insurance: 
+      none: 
+      ratio: 
+      retirement: 
+      safety:
+        high: 
+        low: 
+      taxes: 
+      title: 
+      total: 
+  portfolio_analysis:
+    email:
+      disclaimer:
+        partFour: Stockflare的5星度量工具是比較任何股票組的一種方法。它們可對任何股票的贏利能力、股息、成長性、價值與‘華爾街’意見進行分析。我們強調，這些是品質度量與研究工具。它們並不形成明示或暗示的建議。
+        partOne: Stockflare由英國公司Stockflare Limited經營。Stockflare首先是信息服務。我們并不提供建議，也不作出提議。我們是自主投資者的投資工具。
+        partThree: "我們在我們的網站上展示‘華爾街’一致預測與建議。包括股票‘購入’、‘售出’、‘持有’及‘目標價位’參考。Stockflare并不支持這些預測。令人遺憾的是，對於未來并無數據。華爾街的觀點是主觀觀點，而非客觀觀點。也就是說，他們通常會出錯。"
+        partTwo: "盤后價格數據、基本面及估價由Thomson Reuters提供。BATS、AMEX、NYSE和NASDAQ的延遲價格數據由Barchart提供，至少延遲10分鐘，更多資訊請訪問其網站。美國經紀公司整合由Trading Ticket Inc.提供支持。"
+      refresh_account: "恢復您的賬戶"
+      sub_heading: "讓我們查看下最近的分析"
+      subject: "您的投資現狀如何？"
+      suggestions: "給您的建議"
+      suggestions_base: "基於您的個人資料"
+      update_watchlist: "更新您的觀察列表"
+  settings:
+    buttons:
+      apply: "應用變更"
+      delete: "關閉帳戶"
+      loading: "更新設置"
+    descriptions:
+      alerts_email: "你想接收關於你的投資組合和觀察清單的郵件嗎"
+      cannot_delete: "在取消Stockflare Plus訂購之前，你不能關閉帳戶。"
+      currency: "觀察列表的預測和總數將以你偏好的貨幣顯示，並使用最新的匯率。"
+      current: "請輸入現在的密碼以實現更改。"
+      delete: "關閉帳戶會將你所有的個人資料從我們的系統中永久刪除。該操作不可撤銷。"
+      error: "抱歉，更新設置時遇到了一個問題"
+      language: "設置查看Stockflare的語言。"
+      location: "如果你沒有應用國家過濾，那你的所在地將用來過濾股票。"
+      password: "如果你不想修改密碼，請空白。"
+    flash:
+      cancel_subscription: "你確定取消Stockflare Plus訂購嗎？"
+      delete: "你確定關閉Stockflare帳戶嗎？"
+      deleteError: "對不起，關閉您的帳戶時出錯，請聯絡 info@st​​ockflare.com"
+      deleteInitiated: "已收到帳戶關閉請求。請檢查您的電子郵件收件箱中獲得進一步的說明。"
+      updated: "您的設定已更新"
+    titles:
+      danger: "危險區"
+      subscription: "訂購詳情"
+  stock:
+    innerTypes:
+      chart:
+        extra_series:
+          forecast_dps:
+            label: "預測DPS"
+          forecast_eps:
+            label: "預測EPS"
+          forecast_pe:
+            label: "預測PE"
+          forecast_sales:
+            label: "預測銷售"
+          long_term_gain:
+            label: "長期利潤"
+          long_term_growth:
+            label: "長期增長"
+          price:
+            label: "價格"
+          rating:
+            label: "星級評定"
+          recommendation:
+            label: "買入/賣出/持有"
+          target_price:
+            label: "目標價格"
+          ten_day_average_volume:
+            label: "數量"
+    stats:
+      fifty_two_week: 52周 高/低
+      industry: "產業"
+      value: "市場價值"
+  subscriptions:
+    information:
+      plans:
+        silver:
+          payment:
+            button: "訂購"
+            description: "按月訂購。"
+  tooltip:
+    acronyms:
+      dps: "每股股息"
+      eps: "每股收益"
+      growth: "長期增長預測"
+      pe: "價格收益比"
+      rating: "關鍵指標"
+      ric: "路透股票代號"
+    explanations:
+      downside: "股票經紀商發佈他們認為的股票公允價值，這就是所謂的目標價。我們的資料供應商根據這些專家提供的資料計算平均值。這裡顯示從今天的股票價格到華爾街目標價的降幅。請注意，這是這些專家的主觀選擇，並不客觀。 "
+      dps: "公司支付股息，如同銀行支付利息一樣。每股股息是您擁有的每一股所獲得的股息。"
+      eps: "公司的利潤歸股東所有。每股收益是您擁有的每一股理論上賺取的利潤。"
+      pe: "市盈率顯示股價與每股收益的比例。該數值越大，股價越高。"
+      recommendation: "股票經紀商為他們分析的每隻股票發佈買入/賣出/持有建議。我們的資料供應商湯姆森路透根據這些專家提供的資料計算平均值。這是“華爾街”情緒的良好指標。但請注意，這是主觀意見，並不客觀。"
+      upside: "股票經紀商發佈他們認為的股票公允價值，這就是所謂的目標價。我們的資料供應商根據這些專家提供的資料計算平均值。這裡顯示從今天的股票價格到華爾街目標價的升幅。請注意，這是這些專家的主觀選擇，並不客觀。 "
+  v1:
+    new_val: "來自 V2 的新數值"
+    new_val_2: "用於測試 Travis Build 的新值"
+    test: "覆寫來自 v2 的數值"
+  v2:
+    test: "來自 V2 的新密鑰"
+  watchlist:
+    actualChange: "實際變化（1天）"
+    block:
+      actions:
+        delete: 
+        edit: 
+    breakdown:
+      columns:
+        price: "今天"
+        purchased: "投資於"
+        shares: "價值&股票"
+    create:
+      points:
+        infinite:
+          subtitle: "我們的觀察列表絕對沒有任何限制。你想觀察多少股票都可以。"
+          title: "無限大"
+        monitor:
+          subtitle: "用我們的資料來確定你最佳&最值得投資的股票。"
+          title: "監視器表現"
+        positions:
+          subtitle: "添加股票項目和購買價格來獲取一個真實的投資組合。"
+          title: "添加項目"
+      subtitle: Stockflare上的觀察清單遠多於平均的投資組合。
+      title: "創建一個觀察列表"
+    danger:
+      button: "刪除觀察列表"
+      description: "刪除你的觀察清單將會永久刪除存儲在我們伺服器上的所有資料。這是一個不可撤銷的操作。"
+      title: "危險區"
+    pageTitle: "我的觀察列表"
+  watchlists:
+    pageTitle: "我的投資組合"
+    titles:
+      actual: "實際變化"
+      change: "變化百分比"
+      stocks: " %n 股票"
+      worth: "總價值"
