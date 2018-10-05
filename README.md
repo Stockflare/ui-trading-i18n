@@ -1,4 +1,4 @@
-# Stockflare Internationalisation (I18n) V2
+# Stockflare Trading Internationalisation (I18n) V1
 
 Here, you will find all of the individuals translations that are currently used on the [Stockflare website](https://m.stockflare.com).
 
