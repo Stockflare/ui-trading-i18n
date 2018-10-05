@@ -1,6 +1,6 @@
 language: ruby
 rvm:
-- 2.2.2
+- 2.5.1
 before_script: gem install localeapp
 script: localeapp --api-key $LOCALEAPP_API_KEY push locales/en.yml
 notifications:
