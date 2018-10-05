@@ -479,7 +479,7 @@ en:
         zar: R%n
         zmw: ZK%n
         zwd: Z$%n
-    defaultPageTitle: Pick Stocks Easily
+    defaultPageTitle: Trade Stocks Easily
     empty: Empty
     languages:
       ar: "عربى"
@@ -922,7 +922,7 @@ en:
     hero:
       cta: Get Started
       description: Investing doesn't have to be complicated. Get to the key information quickly with Stockflare.
-      title: Pick Stocks Easily
+      title: Trade Stocks Easily
     hero_image_url: https://public.stockflare.com/assets/hodor_landing/introduction-background.jpg
     nav:
       login: Login
@@ -970,8 +970,8 @@ en:
     keywords: stocks, stockflare, investment, ideas, finance, better investment
     og:
       description: Stockflare helps you find new ideas. Search for stock ideas and see if your portfolio's any good
-      title: Stockflare - Pick Stocks Easily
-    title: Pick Stocks Easily
+      title: Stockflare - Trade Stocks Easily
+    title: Trade Stocks Easily
   mobile:
     about:
       links:
