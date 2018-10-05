@@ -888,12 +888,12 @@ en:
       search: Search
       watchlist: My Watchlist
   hodor_landing:
-    broker_logo: https://public.stockflare.com/assets/hodor_landing/fidelity.png
+    broker_logo: https://public.stockflare.com/assets/hodor_landing/CPAY_logo.png
     features:
-      alerts: Critical alerts and notification keeping you up to date
-      global: Clear analysis on over 45,000 stocks across the globe
-      reuters: A service built upon the world class data of Reuters
-      sec: Connect your brokerage account to get personalized insights
+      alerts: Invest in stocks across the US, the EU and the UK
+      global: We are registered with the UK's Financial Conduct Authority
+      reuters: No account minimums, no complex pricing, just $2 a trade
+      sec: Integrates seemlessly with Stockflare Analytics and Cryptopay
     footer:
       about:
         about_us: About us
@@ -902,34 +902,36 @@ en:
         title: About
       block:
         companies_house: CompaniesHouse.gov.uk
-        drivewealth: "*Our partner DriveWealth LLC's standard commission rate is $0.0125 per share, with a minimum of $2.99. Fractional share commissions are $0.99 for each transaction less than one full share. Access to DriveWealth’s Unlimited plan offering $0.01 per share trading platform is available, as a reward for joining Stockflare Plus."
-        information_only: Stockflare is an information service provided on an 'as is' and 'as available' basis. We do not provide advice and do not make recommendations. We are a research tool for self-directed investors. Please make sure you understand our Terms of Service. If you don’t, please contact us with your questions.
-        invest_wise: Save more. Invest wisely.
-        long_term_investing: 'Stockflare believes in long term investing in stocks and low cost ETFs. We do not believe that high cost mutual funds or active managers represent value for money. We do not like complex investments, speculation or day trading. As Phil Fisher said: Conservative investors sleep better.'
-        loss_warning: Please remember that investing involves risk and investments may lose value, i.e. you will lose money on some of your investments. Therefore one of our key goals at Stockflare, is to provide you with tools to help you minimize your losses.
-        operated: This website is operated and maintained by Stockflare Limited, a UK company. Access our filings at the UK's
+        drivewealth: "Your investments are held at a segregated account with DriveWealth LLC, a member of FINRA and SIPC in the United States. You can access them via our website, app, or directly via Drivewealth's."
+        information_only: Stockflare Securities Ltd (FRN: 820201) is an Appointed Representative of MET Facilities LLP which is authorised and regulated by the Financial Conduct Authority (FRN: 587084). Stockflare Securities Ltd is registered in England with registered number 11437262 and  and principal office at 12 Hammersmith Grove, London W6 7AP, UK.
+        invest_wise: Your investments may lose value.
+        long_term_investing: Note that our investment products are not deposits, not FDIC Insured, do not carry a bank guarantee and are not insured by any US Federal Government, UK or European agency.
+
+
+        loss_warning: Please remember that investing involves risk and investments may lose value, i.e. you will lose money on some of your investments. Therefore, do your diligence and take responsibility for your decisions.
+        operated: This website is operated and maintained by Stockflare Securities Limited, a UK company. Access our filings at the UK's
       contact:
         email: Email
         facebook: Facebook
         title: Contact
         twitter: Twitter
-      description: Stockflare helps anyone pick stocks. Easily. Investing doesn't have to be complicated. We cut through hundreds of metrics for over 45,000 stocks globally.
+      description: Stockflare Securities helps anyone in the UK and Europe invest easily.
       legals:
         privacy: Privacy
         terms: Terms
         title: Legals
-      title: Stockflare Limited & Stockflare USA, Inc.
+      title: Stockflare Securities Limited
     hero:
       cta: Get Started
-      description: Investing doesn't have to be complicated. Get to the key information quickly with Stockflare.
-      title: Trade Stocks Easily
-    hero_image_url: https://public.stockflare.com/assets/hodor_landing/introduction-background.jpg
+      description: We have designed one of the easiest investing services, focusing on simplicity and price.
+      title: Invest Easily
+    hero_image_url: https://public.stockflare.com/assets/hodor_landing/trading_background.jpg
     nav:
       login: Login
       sign_up: Sign up for free
     register:
-      cta: Register for Stockflare
-      description: Register if you'd like a personalized service.
+      cta: Get an account today
+      description: It takes less than 90 seconds.
       form:
         email:
           placeholder: Your Email Address
@@ -941,16 +943,16 @@ en:
       title: Join for Free.
     sectons:
       link:
-        cta: Connect My Brokerage
+        cta: Link Accounts
         cta_url: https://stockflare.com/connect
-        description: Securely connect your brokerage account and import your portfolio to Stockflare. Get our analysis on your live investments.
-        title: Connect, Explore, Buy
+        description: Stockflare Securities is part of the CPAY Group, including Stockflare Analytics and Cryptopay, a digital currency wallet. Connect your accounts to see your portfolio's details across our different services.
+        title: Connect Your Account
       picking:
         cta: See Amazon, Inc
         cta_url: https://stockflare.com/stock/amzn.o
-        description: At Stockflare, our algorithms turn large quantities of data into easy to use analysis. With our tools, anyone can pick stocks easily.
+        description: Stockflare Securities' sister company Stockflare Analytics, is a great source of data on investments across the world. With their tools, you can research stocks easily.
         image_url: https://public.stockflare.com/assets/hodor_landing/snow-image-browser.png
-        title: Stockpicking Made Easy
+        title: Great Data. For Free.
   login:
     buttons:
       forgot: I've forgotten my password
@@ -966,12 +968,12 @@ en:
       success: You are now logged in as %n
     pageTitle: Login
   meta:
-    description: Stockflare helps you find new ideas. Search for stock ideas and see if your portfolio's any good
-    keywords: stocks, stockflare, investment, ideas, finance, better investment
+    description: Stockflare Securities helps you invest easily. No minimum account sizes, simple pricing at $2 a trade.
+    keywords: stocks, stockflare, investment, ideas, finance, better investment, trading, brokerage
     og:
-      description: Stockflare helps you find new ideas. Search for stock ideas and see if your portfolio's any good
-      title: Stockflare - Trade Stocks Easily
-    title: Trade Stocks Easily
+      description: Stockflare Securities helps you invest easily. No minimum account sizes, simple pricing at $2 a trade.
+      title: Stockflare - Invest Easily
+    title: Invest Easily
   mobile:
     about:
       links:
@@ -1077,8 +1079,8 @@ en:
         password: Password
       lastUpdated: Last Updated
       login:
-        createAccountText: Register and test out our full range of data and analytics. You can connect your live brokerage account and get key insights into your investments. Never miss out on key events with our alerts & notifications. So what are you waiting for?
-        createAccountTitle: Not Joined Stockflare Yet?
+        createAccountText: Register in less than 90 seconds. Note: you can connect your Cryptopay or Stockflare Analytics account, to see your portfolio across our different services. Invest Easily with Stockflare Securities. What are you waiting for?
+        createAccountTitle: Not Joined Us Yet?
       ok: Ok
       reset: Reset
       search: Search
@@ -1123,8 +1125,8 @@ en:
         reuters: Thomson Reuters
         tos: terms of service
         tradeit: Trading Ticket Inc
-      partOne: '%pagesLink is an information service provided on an "as is" and "as available" basis. We do not provide advice and do not make recommendations. We are a research tool for self-directed investors. Please read our %tosLink.'
-      partTwo: End-of-day pricing data, fundamentals and estimates are provided by %reutersLink. Real-time pricing is provided free by %iexLink. Integration for US brokerage firms is powered by %tradeitLink.
+      partOne: Stockflare Securities Ltd (FRN: 820201) is an Appointed Representative of MET Facilities LLP which is authorised and regulated by the Financial Conduct Authority (FRN: 587084). Stockflare Securities Ltd is registered in England with registered number 11437262 and  and principal office at 12 Hammersmith Grove, London W6 7AP, UK.
+      partTwo: All investing carries risk. Past performance is not indicative of future returns, which may vary. Investments may decline in value, potentially leading to a loss of principal. Online trading has inherent risk due to system response and access times that may be affected by various factors, including but not limited to market conditions and system performance. An investor should understand such facts before trading. 
     drivewealth:
       buttons:
         account: Already Have An Account?
