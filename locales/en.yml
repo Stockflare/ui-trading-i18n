@@ -903,7 +903,7 @@ en:
       block:
         companies_house: CompaniesHouse.gov.uk
         drivewealth: "Your investments are held at a segregated account with DriveWealth LLC, a member of FINRA and SIPC in the United States. You can access them via our website, app, or directly via Drivewealth's."
-        information_only: Stockflare Securities Ltd (FRN: 820201) is an Appointed Representative of MET Facilities LLP which is authorised and regulated by the Financial Conduct Authority (FRN: 587084). Stockflare Securities Ltd is registered in England with registered number 11437262 and  and principal office at 12 Hammersmith Grove, London W6 7AP, UK.
+        information_only: "Stockflare Securities Ltd (FRN: 820201) is an Appointed Representative of MET Facilities LLP which is authorised and regulated by the Financial Conduct Authority (FRN: 587084). Stockflare Securities Ltd is registered in England with registered number 11437262 and  and principal office at 12 Hammersmith Grove, London W6 7AP, UK."
         invest_wise: Your investments may lose value.
         long_term_investing: Note that our investment products are not deposits, not FDIC Insured, do not carry a bank guarantee and are not insured by any US Federal Government, UK or European agency.
 
@@ -1079,7 +1079,7 @@ en:
         password: Password
       lastUpdated: Last Updated
       login:
-        createAccountText: Register in less than 90 seconds. Note: you can connect your Cryptopay or Stockflare Analytics account, to see your portfolio across our different services. Invest Easily with Stockflare Securities. What are you waiting for?
+        createAccountText: "Register in less than 90 seconds. Note: you can connect your Cryptopay or Stockflare Analytics account, to see your portfolio across our different services. Invest Easily with Stockflare Securities. What are you waiting for?"
         createAccountTitle: Not Joined Us Yet?
       ok: Ok
       reset: Reset
@@ -1125,8 +1125,8 @@ en:
         reuters: Thomson Reuters
         tos: terms of service
         tradeit: Trading Ticket Inc
-      partOne: Stockflare Securities Ltd (FRN: 820201) is an Appointed Representative of MET Facilities LLP which is authorised and regulated by the Financial Conduct Authority (FRN: 587084). Stockflare Securities Ltd is registered in England with registered number 11437262 and  and principal office at 12 Hammersmith Grove, London W6 7AP, UK.
-      partTwo: All investing carries risk. Past performance is not indicative of future returns, which may vary. Investments may decline in value, potentially leading to a loss of principal. Online trading has inherent risk due to system response and access times that may be affected by various factors, including but not limited to market conditions and system performance. An investor should understand such facts before trading. 
+      partOne: "Stockflare Securities Ltd (FRN: 820201) is an Appointed Representative of MET Facilities LLP which is authorised and regulated by the Financial Conduct Authority (FRN: 587084). Stockflare Securities Ltd is registered in England with registered number 11437262 and  and principal office at 12 Hammersmith Grove, London W6 7AP, UK."
+      partTwo: All investing carries risk. Past performance is not indicative of future returns, which may vary. Investments may decline in value, potentially leading to a loss of principal. Online trading has inherent risk due to system response and access times that may be affected by various factors, including but not limited to market conditions and system performance. An investor should understand such facts before trading.
     drivewealth:
       buttons:
         account: Already Have An Account?
